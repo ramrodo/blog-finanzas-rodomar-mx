@@ -1,5 +1,5 @@
 ---
-title: "Primer post"
+title: "First post"
 date: 2020-03-30T12:27:04-06:00
 author: "Rodolfo Martínez"
 categories: [Ahorro]
@@ -11,4 +11,6 @@ featuredImagePreview: ""
 draft: false
 ---
 
-Párrafo introductorio
+Personal finance Blog
+
+
