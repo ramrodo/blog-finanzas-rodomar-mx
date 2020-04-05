@@ -1,5 +1,13 @@
 # Blog de finanzas personales
 
-Código base de mi Blog de finanzas personales.
+Código base de mi blog de finanzas personales.
 
-Página web: https://finanzas.rodomar.mx/
+Página web: https://www.finanzas.rodomar.mx
+
+## Tecnologías usadas:
+- [Hugo](https://gohugo.io/)
+- [AWS Amplify](https://aws.amazon.com/es/amplify/)
+
+## Página web
+
+![Website preview](https://s3.amazonaws.com/finanzas.rodomar.mx/finanzas-rodomar-mx-site-preview.png)
