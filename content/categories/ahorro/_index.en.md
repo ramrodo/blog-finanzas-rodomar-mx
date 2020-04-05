@@ -1,4 +1,4 @@
 ---
-title: "Ahorro"
-slug: "ahorro"
+title: "Savings"
+slug: "savings"
 ---
