@@ -2,7 +2,7 @@
 
 Código base de mi blog de finanzas personales.
 
-Página web: https://www.finanzas.rodomar.mx
+Página web: https://www.finanzas.rodomar.mx/es/
 
 ## Tecnologías usadas:
 - [Hugo](https://gohugo.io/)
