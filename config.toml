@@ -1,7 +1,7 @@
 baseURL = "https://finanzas.rodomar.mx/"
 languageCode = "en-us"
-defaultContentLanguage = "en"
-title = "Rodolfo Martínez"
+defaultContentLanguage = "es"
+title = "Blog"
 theme = "LoveIt"
 enableEmoji = true
 enableGitInfo = true
@@ -12,7 +12,7 @@ enableGitInfo = true
     # language code
     languageCode = "en"
     # website title
-    title = "Rodolfo Martínez"
+    title = "Blog"
     # language name
     languageName = "English"
     # whether to include Chinese/Japanese/Korean
@@ -229,7 +229,7 @@ enableGitInfo = true
     # language code
     languageCode = "es"
     # website title
-    title = "Rodolfo Martínez"
+    title = "Blog"
     # language name
     languageName = "Español"
     # whether to include Chinese/Japanese/Korean
