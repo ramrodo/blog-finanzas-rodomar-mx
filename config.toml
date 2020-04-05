@@ -81,7 +81,7 @@ enableGitInfo = true
             # URL of avatar shown in home page
             avatarURL = "/images/selfie.jpg"
             # subtitle shown in home page
-            subtitle = "Personal finance blog"
+            subtitle = "Rodolfo Martínez Vega"
             # whether to use typeit animation for subtitle
             typeit = true
             # whether to show social links
@@ -298,7 +298,7 @@ enableGitInfo = true
             # URL of avatar shown in home page
             avatarURL = "/images/selfie.jpg"
             # subtitle shown in home page
-            subtitle = "Blog de finanzas personales"
+            subtitle = "Rodolfo Martínez Vega"
             # whether to use typeit animation for subtitle
             typeit = true
             # whether to show social links
