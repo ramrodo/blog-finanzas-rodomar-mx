@@ -204,7 +204,7 @@ enableGitInfo = true
             clientSecret = ""
           # Valine Comment Config (https://github.com/xCss/Valine)
           [languages.en.params.comment.valine]
-            enable = true
+            enable = false
             appId = "U23b5sRThXjP8EP6oVBC6m1O-MdYXbMMI"
             appKey = "bRc23QOo1E6FOOBsRvbUwws1"
             placeholder = "Your comment ..."
@@ -218,11 +218,11 @@ enableGitInfo = true
             recordIP = true
           # Facebook Comment Config (https://developers.facebook.com/docs/plugins/comments)
           [languages.en.params.comment.facebook]
-            enable = false
+            enable = true
             width = "100%"
             numPosts = 10
-            appId = ""
-            languageCode = "en_US"
+            appId = "239685623897243"
+            languageCode = "es_MX"
 
   [languages.es]
     weight = 1
@@ -421,7 +421,7 @@ enableGitInfo = true
             clientSecret = ""
           # Valine Comment Config (https://github.com/xCss/Valine)
           [languages.es.params.comment.valine]
-            enable = true
+            enable = false
             appId = "U23b5sRThXjP8EP6oVBC6m1O-MdYXbMMI"
             appKey = "bRc23QOo1E6FOOBsRvbUwws1"
             placeholder = "Your comment ..."
@@ -526,7 +526,7 @@ enableGitInfo = true
       clientSecret = ""
     # Valine Comment Config (https://github.com/xCss/Valine)
     [params.comment.valine]
-      enable = true
+      enable = false
       appId = "U23b5sRThXjP8EP6oVBC6m1O-MdYXbMMI"
       appKey = "bRc23QOo1E6FOOBsRvbUwws1"
       placeholder = "Your comment ..."
@@ -540,7 +540,7 @@ enableGitInfo = true
       recordIP = true
     # Facebook Comment Config (https://developers.facebook.com/docs/plugins/comments)
     [params.comment.facebook]
-      enable = false
+      enable = true
       width = "100%"
       numPosts = 10
       appId = "239685623897243"
