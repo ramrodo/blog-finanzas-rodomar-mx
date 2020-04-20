@@ -20,7 +20,7 @@ enableGitInfo = true
     # default amount of posts in each pages
     paginate = 12
     # [UA-XXXXXXXX-X] google analytics code
-    googleAnalytics = ""
+    googleAnalytics = "UA-119169351-2"
     # copyright description used only for seo schema
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     # date format
@@ -237,7 +237,7 @@ enableGitInfo = true
     # default amount of posts in each pages
     paginate = 12
     # [UA-XXXXXXXX-X] google analytics code
-    googleAnalytics = ""
+    googleAnalytics = "UA-119169351-2"
     # copyright description used only for seo schema
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     # date format
