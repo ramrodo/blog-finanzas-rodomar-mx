@@ -6,8 +6,7 @@ categories: [impuestos]
 tags: [Artículo]
 url: declaracion-anual-2020-ejercicio-2019
 slug: declaracion-anual-2020-ejercicio-2019
-featuredImage: ""
-featuredImagePreview: ""
+featuredImage: "/images/2020-04-18/_featuredImage.jpg"
 draft: false
 ---
 
