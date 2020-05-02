@@ -443,7 +443,7 @@ enableGitInfo = true
 
 [params]
   version = "0.2.X"
-  gitRepo = "https://github.com/dillonzq/LoveIt"
+  gitRepo = "https://github.com/ramrodo/blog-finanzas-rodomar-mx/"
   # Header info
   [params.header]
     # desktop header mode ("fixed", "normal", "auto")
