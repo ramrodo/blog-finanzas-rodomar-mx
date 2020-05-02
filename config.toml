@@ -128,7 +128,7 @@ enableGitInfo = true
           # Paypal = "xxxx"
           # Fivehundredpx = "xxxx"
           # Mix = "xxxx"
-          Goodreads = "ramrodo"
+          Goodreads = "92717248-rodolfo-mart-nez"
           # Lastfm = "xxxx"
           # Foursquare = "xxxx"
           # Hackernews = "xxxx"
@@ -345,7 +345,7 @@ enableGitInfo = true
           # Paypal = "xxxx"
           # Fivehundredpx = "xxxx"
           # Mix = "xxxx"
-          Goodreads = "ramrodo"
+          Goodreads = "92717248-rodolfo-mart-nez"
           # Lastfm = "xxxx"
           # Foursquare = "xxxx"
           # Hackernews = "xxxx"
@@ -442,7 +442,7 @@ enableGitInfo = true
             languageCode = "es_MX"
 
 [params]
-  version = "0.1.X"
+  version = "0.2.X"
   gitRepo = "https://github.com/dillonzq/LoveIt"
   # Header info
   [params.header]
