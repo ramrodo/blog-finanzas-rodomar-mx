@@ -21,16 +21,16 @@ Les presentaré una guía paso a paso sobre cómo pueden empezar a invertir en M
 
 ## Paso 0: Antes de empezar...
 
-Hay dos cosas importantes para empezar a invertir; y aunque suene trillado y lo digan muchos libros o gurús de finanzas, la verdad es que sí son vitales que las tengas presentes:
+Hay dos cosas importantes que tienes que tener claro antes de empezar a invertir; y aunque suene trillado y lo digan muchos libros o gurús de finanzas, la verdad es que sí son vitales que las tengas claras:
 
 ### 1. La meta
 
-Tener una meta, una fecha objetivo y la cantidad de dinero para esa meta. Esto es vital ya que teniendo estos 3 datos, podrás decidir cuál es el instrumento ideal para este objetivo, cuál es el riesgo que puedes asumir y cuál es el horizonte de inversión para tener el dinero el día que lo necesitas.
+Es vital tener un objetivo para tu inversión. Establece una meta, una fecha objetivo y la cantidad de dinero para esa meta. Teniendo estos 3 datos, podrás decidir cuál es el instrumento ideal para este objetivo, cuál es el riesgo que puedes asumir y cuál es el horizonte de inversión (es decir, para cuándo lo necesitas).
 
 Aquí te pongo 3 ejemplos de los diferentes instrumentos en los que puedes invertir dependiendo de estos 3 datos:
 - ¿Qué?
-- ¿Para cuándo?
 - ¿Cuánto?
+- ¿Para cuándo?
 
 ---
 
@@ -65,17 +65,29 @@ Como te habrás dado cuenta, algunos instrumentos se repiten y se combinan con o
 
 ### 2. Constancia
 
-Como todo en la vida, la clave está en la constancia. Ser muy disciplinado en ahorrar para tu meta y no gastarte ese dinero en otras cosas solo porque está en oferta o porque diste el tarjetazo. La constancia te ayudará a que tus inversiones den sus frutos.
+Como todo en la vida, la clave está en la constancia. Ser muy disciplinado en ahorrar para tu meta y no gastarte ese dinero en otras cosas, te ayudará a que tus inversiones den sus frutos.
 
 ## Paso 1: Ahorrar $10,000.-
 
-fondo de emergencias para que solo te preocupes por invertir y no por poder llegar a la quincena
+Ahora sí, vamos al grano. El primer paso es ¡ahorrar $10,000!
 
-Abrir cuenta de cetes disrecto
+No importa cuánto te tardes, si es un mes o un año; lo importante es juntar $10,000 tan rápido como puedas.
 
-Paso previo (si es complicado): Empezar con $100 o $1,000. Ser constante
+Algunos consejos que pueden ayudar a lograr esto son:
+
+1. El mismo día que recibas tu ingreso (la quincena o el pago de un proyecto), en ese preciso momento ahorra una parte. La cantidad dependerá de cada quien. Puede que al principio solo puedas ahorrar $100 o $500, pero lo importante es que lo **ahorres en cuanto recibas el dinero**. Porque si esperas a ahorrar lo que te sobra, puede que nunca te sobre nada o incluso te falte.
+
+2. **Separa este ahorro** de tu cuenta de nómina o de donde recibes el dinero, así evitarás confundirlo con tus gastos comunes y te será más difícil gastarlo. Te recomiendo que abras una cuenta en [cetesdirecto.com](https://www.cetesdirecto.com/) y transfieras tu ahorro ahí, cada quincena.
+
+{{< admonition tip >}}
+En [este video](https://www.youtube.com/watch?v=uAx-cOtRT1Q) puedes aprender cómo abrir una cuenta en cetesdirecto.
+{{< /admonition >}}
+
+Estos primeros $10,000 te servirán para crear tu **mini-fondo de emergencias**, el cual te ayudará a no preocuparte de si vas alcanzar la quincena o incluso podrás ocuparlo en caso de que se te presente una necesidad urgente o en un gasto no planeado. No sobra decir que éste ahorro, NO significa aprovecharlo para cuando veas una oferta, sino que lo ocupes cuando en verdad sea una necesidad.
 
 ## Paso 2: Ahorrar un mes de gastos
+
+Un mes de gastos no significa un mes de ingresos. Es un mes de gastos fijos.
 
 Comprar cetes a 1 mes
 
@@ -106,6 +118,9 @@ Educación personal: Seguir siendo competente y la inversión en la educación e
 
 Disfrutar del dinero una vez que ya hemos ahorrado. Gastar sin culpa (porque ya ahorramos).
 
+Mediano plazo: Cetes y acciones
+Largo plazo: Cetes, acciones y bienes raíces
+
 ## Paso 7: Que el dinero genere más dinero
 
 Constante en el ahorro. Ahorrar todos los meses una cantidad fija sin excusas.
@@ -118,6 +133,5 @@ Constante en el ahorro. Ahorrar todos los meses una cantidad fija sin excusas.
 {{< admonition >}}
 {{< /admonition >}}
 
-{{< admonition tip >}}
-{{< /admonition >}}
+
 
