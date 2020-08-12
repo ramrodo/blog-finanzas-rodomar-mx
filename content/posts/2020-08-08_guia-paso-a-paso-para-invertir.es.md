@@ -38,7 +38,7 @@ Aquí te pongo 3 ejemplos de los diferentes instrumentos en los que puedes inver
 
 | ¿Qué?                                  | ¿Cuánto?  | ¿Para cuándo? | Instrumento   |
 |:-------------------------------------: |:---------:|:-------------:|:-------------:|
-| Un nuevo celular de gama media-alta    | $12,000.- | 6 meses       | CETEs         |
+| Mini-fondo de emergencias              | $10,000.- | 6 meses       | CETEs         |
 | Una computadora                        | $20,000.- | 12 meses      | CETEs         |
 
 ---
@@ -69,35 +69,54 @@ Como todo en la vida, la clave está en la constancia. Ser muy disciplinado en a
 
 ## Paso 1: Ahorrar $10,000.-
 
+{{< admonition success "Instrumento de inversión a utilizar" >}}
+Colocar este ahorro en tu cuenta de [cetesdirecto.com](https://www.cetesdirecto.com/) cada quincena o pago que recibas
+{{< /admonition >}}
+
 Ahora sí, vamos al grano. El primer paso es ¡ahorrar $10,000!
 
 No importa cuánto te tardes, si es un mes o un año; lo importante es juntar $10,000 tan rápido como puedas.
 
-Algunos consejos que pueden ayudar a lograr esto son:
+Algunos consejos que pueden ayudarte a lograr esto son:
 
 1. El mismo día que recibas tu ingreso (la quincena o el pago de un proyecto), en ese preciso momento ahorra una parte. La cantidad dependerá de cada quien. Puede que al principio solo puedas ahorrar $100 o $500, pero lo importante es que lo **ahorres en cuanto recibas el dinero**. Porque si esperas a ahorrar lo que te sobra, puede que nunca te sobre nada o incluso te falte.
 
-2. **Separa este ahorro** de tu cuenta de nómina o de donde recibes el dinero, así evitarás confundirlo con tus gastos comunes y te será más difícil gastarlo. Te recomiendo que abras una cuenta en [cetesdirecto.com](https://www.cetesdirecto.com/) y transfieras tu ahorro ahí, cada quincena.
+2. **Separa este ahorro** de tu cuenta de nómina o de donde recibes el dinero, así evitarás confundirlo con tus gastos comunes y te será más difícil gastarlo.
+
+Estos primeros $10,000 te servirán para crear tu **mini-fondo de emergencias**, el cual te ayudará a no preocuparte por alcanzar la quincena o incluso podrás ocuparlo en caso de que se te presente una necesidad urgente o en un gasto no planeado. No sobra decir que éste ahorro, NO significa aprovecharlo para cuando veas una oferta, sino que lo ocupes cuando en verdad sea una necesidad.
 
 {{< admonition tip >}}
-En [este video](https://www.youtube.com/watch?v=uAx-cOtRT1Q) puedes aprender cómo abrir una cuenta en cetesdirecto.
+En [este video](https://www.youtube.com/watch?v=uAx-cOtRT1Q) puedes aprender cómo abrir una cuenta en cetesdirecto
 {{< /admonition >}}
-
-Estos primeros $10,000 te servirán para crear tu **mini-fondo de emergencias**, el cual te ayudará a no preocuparte de si vas alcanzar la quincena o incluso podrás ocuparlo en caso de que se te presente una necesidad urgente o en un gasto no planeado. No sobra decir que éste ahorro, NO significa aprovecharlo para cuando veas una oferta, sino que lo ocupes cuando en verdad sea una necesidad.
 
 ## Paso 2: Ahorrar un mes de gastos
 
-Un mes de gastos no significa un mes de ingresos. Es un mes de gastos fijos.
+{{< admonition success "Instrumento de inversión a utilizar" >}}
+Colocar este ahorro igual en tu cuenta de [cetesdirecto.com](https://www.cetesdirecto.com/)
+{{< /admonition >}}
 
-Comprar cetes a 1 mes
+Aquí hay que aumentar el ahorro hasta que tengas **un mes de gastos**. Ojo, un mes de gastos no es lo mismo que un mes de tus ingresos.
 
-Juntar 3 meses y diversificarlo
+Para saber cuánto es un mes de tus gastos haz el siguiente cálculo:
 
-Estamos invirtiendo en renta fija / deuda
+{{< admonition note "Mes de gastos" >}}
+Mes de gastos = Ingreso - Ahorro - Gastos Fijos
+{{< /admonition >}}
+
+Imagina que un mes de gastos es la cantidad de dinero que necesitarías durante un mes en caso de que te quedes sin trabajo o sin ingresos. Esto lo ocuparías para cubrir gastos que tienes que pagar sí porque sí como la renta/hipoteca, comida, transporte, servicios (luz, agua, internet), etc.
+
+Esto, aparte de que te dará más tranquilidad y estabilidad a tus finanzas personales, tendrás un colchón en caso de que pierdas tus ingresos o se retrasen.
+
+Si quieres tener un colchón de ingresos más grande, puedes aumentar el ahorro de un mes de gastos a **3 meses**. Creéme, te dará mucha tranquilidad e incluso tendrás la oportunidad de cambiar de trabajo si quieres.
+
+En caso de que tengas 3 meses de ahorro o más, puedes dividir ese monto en 4 y comprar CETEs cada semana del mes, para que tu dinero siga creciendo en caso de que no lo ocupes y, si lo llegaras a necesitar, puedes disponer de 1/4 parte cada semana (es decir, sacar el dinero correspondiente a esa semana).
 
 ## Paso 3: Invertir en acciones
 
-Nada del otro mundo comprar acciones y diversifación.
+¿Ya tan rápido invertir en acciones? Sí, aquí vamos al grano. Digo, al leer este artículo puede que se te haga muy pronto para invertir en acciones, pero la verdad es que si has seguido los pasos anteriores empezando desde cero, al llegar a este paso ya han pasado 6 meses o más; así que ya tienes el hábito de ahorrar una parte de tus ingresos de forma constante.
+
+Nada del otro mundo comprar acciones y diversificando desde el principio (ETF VOO => S&P500).
+
 Modelo de Swensen y poner video de Eduardo Rosas
 
 Estamos invirtiendo en renta variable
@@ -105,6 +124,8 @@ Estamos invirtiendo en renta variable
 ## Paso 4: Invertir en bienes raíces
 
 Seguir diversificando y tener un portafolio más robusto
+
+ETF VNQ
 
 ## Paso 5: Bienestar a largo plazo
 
@@ -126,12 +147,48 @@ Largo plazo: Cetes, acciones y bienes raíces
 Constante en el ahorro. Ahorrar todos los meses una cantidad fija sin excusas.
 
 
-
-
-
-
-{{< admonition >}}
+{{< admonition note >}}
 {{< /admonition >}}
 
+{{< admonition tip >}}
+A **tip**
+{{< /admonition >}}
 
+{{< admonition warning >}}
+{{< /admonition >}}
+
+{{< admonition question >}}
+{{< /admonition >}}
+
+{{< admonition failure >}}
+A **failure** banner
+{{< /admonition >}}
+
+{{< admonition danger >}}
+A **danger** banner
+{{< /admonition >}}
+
+{{< admonition bug >}}
+A **bug** banner
+{{< /admonition >}}
+
+{{< admonition example >}}
+An **example** banner
+{{< /admonition >}}
+
+{{< admonition quote >}}
+A **quote** banner
+{{< /admonition >}}
+
+{{< admonition success >}}
+A **success** banner
+{{< /admonition >}}
+
+{{< admonition abstract >}}
+An **abstract** banner
+{{< /admonition >}}
+
+{{< admonition info >}}
+A **info** banner
+{{< /admonition >}}
 
