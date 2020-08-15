@@ -37,7 +37,7 @@ Aquí te pongo 3 ejemplos de los diferentes instrumentos en los que puedes inver
 **Corto plazo:**
 
 | ¿Qué?                                  | ¿Cuánto?  | ¿Para cuándo? | Instrumento   |
-|:-------------------------------------: |:---------:|:-------------:|:-------------:|
+|:--------------------------------------:|:---------:|:-------------:|:-------------:|
 | Mini-fondo de emergencias              | $10,000.- | 6 meses       | CETEs         |
 | Una computadora                        | $20,000.- | 12 meses      | CETEs         |
 
@@ -46,7 +46,7 @@ Aquí te pongo 3 ejemplos de los diferentes instrumentos en los que puedes inver
 **Mediano plazo:**
 
 | ¿Qué?                                  | ¿Cuánto?   | ¿Para cuándo? | Instrumentos              |
-|:-------------------------------------: |:----------:|:-------------:|:-------------------------:|
+|:--------------------------------------:|:----------:|:-------------:|:-------------------------:|
 | Un viaje por todo Europa               | $150,000.- | 3 años        | CETEs y Acciones (ETFs)   |
 | Enganche para una casa                 | $300,000.- | 5 años        | CETEs y Acciones (ETFs)   |
 
@@ -55,13 +55,13 @@ Aquí te pongo 3 ejemplos de los diferentes instrumentos en los que puedes inver
 **Largo plazo:**
 
 | ¿Qué?                                    | ¿Cuánto?      | ¿Para cuándo? | Instrumentos                             |
-|:---------------------------------------: |:-------------:|:-------------:|:----------------------------------------:|
+|:----------------------------------------:|:-------------:|:-------------:|:----------------------------------------:|
 | Ahorro para la universidad de tus hijos  | $500,000.-    | 10-15 años    | CETEs, Acciones y Bienes raíces (ETFs)   |
 | Ahorro para tu retiro                    | $10,000,000.- | 25-35 años    | CETEs, Acciones y Bienes raíces (ETFs)   |
 
 ---
 
-Como te habrás dado cuenta, algunos instrumentos se repiten y se combinan con otros, esto es porque a largo plazo, diversificar tu inversión es primordial para repartir el riesgo y tu portafolio sea robusto en tiempos difíciles.
+Como te habrás dado cuenta, algunos instrumentos se repiten (como los CETEs) y se combinan con otros, esto es porque a largo plazo, diversificar tu inversión es primordial para distribuir el riesgo y que tu portafolio de inversión sea robusto en tiempos difíciles.
 
 ### 2. Constancia
 
@@ -69,7 +69,7 @@ Como todo en la vida, la clave está en la constancia. Ser muy disciplinado en a
 
 ## Paso 1: Ahorrar $10,000.-
 
-{{< admonition success "Instrumento de inversión a utilizar" >}}
+{{< admonition success "Instrumento/Plataforma de inversión a utilizar" >}}
 Colocar este ahorro en tu cuenta de [cetesdirecto.com](https://www.cetesdirecto.com/) cada quincena o pago que recibas
 {{< /admonition >}}
 
@@ -91,7 +91,7 @@ En [este video](https://www.youtube.com/watch?v=uAx-cOtRT1Q) puedes aprender có
 
 ## Paso 2: Ahorrar un mes de gastos
 
-{{< admonition success "Instrumento de inversión a utilizar" >}}
+{{< admonition success "Instrumento/Plataforma de inversión a utilizar" >}}
 Colocar este ahorro igual en tu cuenta de [cetesdirecto.com](https://www.cetesdirecto.com/)
 {{< /admonition >}}
 
@@ -100,20 +100,46 @@ Aquí hay que aumentar el ahorro hasta que tengas **un mes de gastos**. Ojo, un 
 Para saber cuánto es un mes de tus gastos haz el siguiente cálculo:
 
 {{< admonition note "Mes de gastos" >}}
-Mes de gastos = Ingreso - Ahorro - Gastos Fijos
+Mes de gastos = Un mes de tus gastos fijos
 {{< /admonition >}}
 
 Imagina que un mes de gastos es la cantidad de dinero que necesitarías durante un mes en caso de que te quedes sin trabajo o sin ingresos. Esto lo ocuparías para cubrir gastos que tienes que pagar sí porque sí como la renta/hipoteca, comida, transporte, servicios (luz, agua, internet), etc.
 
-Esto, aparte de que te dará más tranquilidad y estabilidad a tus finanzas personales, tendrás un colchón en caso de que pierdas tus ingresos o se retrasen.
+Éste ahorro de un mes de gastos, aparte de que tendrás un colchón en caso de que pierdas tus ingresos o se retrasen, te dará más tranquilidad y estabilidad a tus finanzas personales y no tendrás que endeudarte parar cubrir alguna emergencia o gasto no planeado.
 
-Si quieres tener un colchón de ingresos más grande, puedes aumentar el ahorro de un mes de gastos a **3 meses**. Creéme, te dará mucha tranquilidad e incluso tendrás la oportunidad de cambiar de trabajo si quieres.
+## Paso 2.1: Ahorrar 3 meses de gastos
 
-En caso de que tengas 3 meses de ahorro o más, puedes dividir ese monto en 4 y comprar CETEs cada semana del mes, para que tu dinero siga creciendo en caso de que no lo ocupes y, si lo llegaras a necesitar, puedes disponer de 1/4 parte cada semana (es decir, sacar el dinero correspondiente a esa semana).
+_Ésto es opcional pero recomendado._
 
-## Paso 3: Invertir en acciones
+Si quieres tener un colchón de ingresos más grande, puedes aumentar el ahorro de un mes de gastos a **3 meses**. Creéme, te dará mucha tranquilidad e incluso tendrás la oportunidad de cambiar de trabajo si no estás a gusto en donde estás.
 
-¿Ya tan rápido invertir en acciones? Sí, aquí vamos al grano. Digo, al leer este artículo puede que se te haga muy pronto para invertir en acciones, pero la verdad es que si has seguido los pasos anteriores empezando desde cero, al llegar a este paso ya han pasado 6 meses o más; así que ya tienes el hábito de ahorrar una parte de tus ingresos de forma constante.
+En caso de que tengas 3 meses de ahorro o más, puedes dividir ese monto en 4 y comprar CETEs a 28 días cada semana del mes (seleccionando la opción de re-inversión automática), para que tu dinero siga creciendo en caso de que no lo ocupes; y si lo llegaras a necesitar, puedes disponer de 1/4 parte cada semana (es decir, sacar el dinero correspondiente a esa semana). Aquí un ejemplo:
+
+- Un mes de gastos = $8,000
+- 3 meses de gastos = $24,000
+
+| Semana               | Cantidad | Instrumento     |
+|:--------------------:|:--------:|:---------------:|
+| 1era. semana del mes | $6,000   | CETEs a 28 días |
+| 2da. semana del mes  | $6,000   | CETEs a 28 días |
+| 3ra. semana del mes  | $6,000   | CETEs a 28 días |
+| 4ta. semana del mes  | $6,000   | CETEs a 28 días |
+
+Ya con este ahorro de 3 meses, tendrás un **fondo de emergencias básico** para invertir en otros instrumentos.
+
+## Paso 3: Invertir en acciones (a través de ETFs)
+
+¿Ya tan rápido invertir en acciones? Sí, aquí vamos al grano.
+
+Claro, al leer este artículo por completo en una sola sentada, te puede parecer muy rápido para invertir en acciones. La verdad es que si has seguido los pasos anteriores empezando desde cero, al llegar a este paso ya han pasado 3 meses, 6 meses o incluso un año. Así que puedes regresar cuando quieras aquí para leer cuál es el siguiente paso una vez que hayas completados los anteriores.
+
+Sin más rodeos, aquí va la receta para invertir en acciones a través de ETFs:
+
+Más info sobre ETFs: https://www.perrodinero.blog/posts/etf
+"Cuando compras un título de un ETF estás comprando una parte proporcional de esa canasta, por lo que la diversificación viene implícita"
+"La diferencia más notoria es que un ETF cotiza en bolsa, mientras que un fondo indexado no."
+
+Hay que crear una cuenta en GBMHomebroker (Hay más casas de bolsa como Kustpit, Actinver, etc.), pero ésta es la recomiendo por simplicidad y eficiencia de la app.
 
 Nada del otro mundo comprar acciones y diversificando desde el principio (ETF VOO => S&P500).
 
