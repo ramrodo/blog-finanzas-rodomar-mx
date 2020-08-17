@@ -21,7 +21,7 @@ Les presentaré una guía paso a paso sobre cómo pueden empezar a invertir en M
 
 ## Paso 0: Antes de empezar...
 
-Hay dos cosas importantes que tienes que tener claro antes de empezar a invertir; y aunque suene trillado y lo digan muchos libros o gurús de finanzas, la verdad es que sí son vitales que las tengas claras:
+Hay algunas cosas importantes que tienes que tener claro antes de empezar a invertir; y aunque suene trillado y lo digan muchos libros o gurús de finanzas, la verdad es que sí son vitales que las tengas claras:
 
 ### 1. La meta
 
@@ -66,6 +66,10 @@ Como te habrás dado cuenta, algunos instrumentos se repiten (como los CETEs) y 
 ### 2. Constancia
 
 Como todo en la vida, la clave está en la constancia. Ser muy disciplinado en ahorrar para tu meta y no gastarte ese dinero en otras cosas, te ayudará a que tus inversiones den sus frutos.
+
+### 3. ¡Cero deudas!
+
+No es recomendable ahorrar e invertir si tienes deudas (excepto si es una hipoteca, ya que tu casa se puede convertir en un activo). Imagina que generas $100 de rendimiento pero tienes una deuda que te genera $500 de interés, en vez de ganar, estarás perdiendo dinero. O en vez de ahorrar solo $500, si no tuvieras esa deuda, estarías ahorrando $1,000. Así que paga tus deudas antes de empezar a invertir.
 
 ## Paso 1: Ahorrar $10,000.-
 
@@ -125,7 +129,7 @@ En caso de que tengas 3 meses de ahorro o más, puedes dividir ese monto en 4 y 
 | 3ra. semana del mes  | $6,000   | CETEs a 28 días |
 | 4ta. semana del mes  | $6,000   | CETEs a 28 días |
 
-Ya con este ahorro de 3 meses, tendrás un **fondo de emergencias básico** para invertir en otros instrumentos.
+Ya con este ahorro de 3 meses, tendrás un **fondo de emergencias básico** y te permitirá invertir más en otros instrumentos.
 
 ## Paso 3: Invertir en acciones (a través de ETFs)
 
@@ -133,9 +137,14 @@ Ya con este ahorro de 3 meses, tendrás un **fondo de emergencias básico** para
 
 Claro, al leer este artículo por completo en una sola sentada, te puede parecer muy rápido para invertir en acciones. La verdad es que si has seguido los pasos anteriores empezando desde cero, al llegar a este paso ya han pasado 3 meses, 6 meses o incluso un año. Así que puedes regresar cuando quieras aquí para leer cuál es el siguiente paso una vez que hayas completados los anteriores.
 
-Sin más rodeos, aquí va la receta para invertir en acciones a través de ETFs:
+Un Exchange-Traded Fund (ETF), es un fondo de inversión indexado que cotiza en bolsa. Invertir en ETFs nos permitirá invertir en acciones (renta variable) de una forma diversificada y con un monto bajo. Si quieres saber más sobre ETFs, te recomiendo leer [éste artículo](https://www.perrodinero.blog/posts/etf) del blog de _perro dinero_.
 
-Más info sobre ETFs: https://www.perrodinero.blog/posts/etf
+Sin más rodeos, aquí va la receta para invertir en acciones a través de ETFs.
+
+Así distribuirás tus ahorros siguiendo el modelo de Swensen, un modelo creado por X y que ha demostrado una excelente distribución del riesgo:
+
+
+
 "Cuando compras un título de un ETF estás comprando una parte proporcional de esa canasta, por lo que la diversificación viene implícita"
 "La diferencia más notoria es que un ETF cotiza en bolsa, mientras que un fondo indexado no."
 
