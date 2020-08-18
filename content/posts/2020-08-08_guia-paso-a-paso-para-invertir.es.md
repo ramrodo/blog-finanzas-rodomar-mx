@@ -137,93 +137,62 @@ Ya con este ahorro de 3 meses, tendrás un **fondo de emergencias básico** y te
 
 Claro, al leer este artículo por completo en una sola sentada, te puede parecer muy rápido para invertir en acciones. La verdad es que si has seguido los pasos anteriores empezando desde cero, al llegar a este paso ya han pasado 3 meses, 6 meses o incluso un año. Así que puedes regresar cuando quieras aquí para leer cuál es el siguiente paso una vez que hayas completados los anteriores.
 
-Un Exchange-Traded Fund (ETF), es un fondo de inversión indexado que cotiza en bolsa. Invertir en ETFs nos permitirá invertir en acciones (renta variable) de una forma diversificada y con un monto bajo. Si quieres saber más sobre ETFs, te recomiendo leer [éste artículo](https://www.perrodinero.blog/posts/etf) del blog de _perro dinero_.
-
-Sin más rodeos, aquí va la receta para invertir en acciones a través de ETFs.
-
-Así distribuirás tus ahorros siguiendo el modelo de Swensen, un modelo creado por X y que ha demostrado una excelente distribución del riesgo:
-
-
-
-"Cuando compras un título de un ETF estás comprando una parte proporcional de esa canasta, por lo que la diversificación viene implícita"
-"La diferencia más notoria es que un ETF cotiza en bolsa, mientras que un fondo indexado no."
-
-Hay que crear una cuenta en GBMHomebroker (Hay más casas de bolsa como Kustpit, Actinver, etc.), pero ésta es la recomiendo por simplicidad y eficiencia de la app.
-
-Nada del otro mundo comprar acciones y diversificando desde el principio (ETF VOO => S&P500).
-
-Modelo de Swensen y poner video de Eduardo Rosas
-
-Estamos invirtiendo en renta variable
-
-## Paso 4: Invertir en bienes raíces
-
-Seguir diversificando y tener un portafolio más robusto
-
-ETF VNQ
-
-## Paso 5: Bienestar a largo plazo
-
-SGMM: Ocuparse por nuestra salud para estar bien
-Afore/PPR: Ocuparse de nuestro yo futuro
-Deducciones personales: Ahorrarnos un poco de impuestos
-Fondo de emergencias de 3 a 6 meses: Ocuparnos de nuestro presente y tener tranquilidad financiera
-Educación personal: Seguir siendo competente y la inversión en la educación es de las más seguras y redituables.
-
-## Paso 6: Ahorrar para metas a mediano y largo plazo
-
-Disfrutar del dinero una vez que ya hemos ahorrado. Gastar sin culpa (porque ya ahorramos).
-
-Mediano plazo: Cetes y acciones
-Largo plazo: Cetes, acciones y bienes raíces
-
-## Paso 7: Que el dinero genere más dinero
-
-Constante en el ahorro. Ahorrar todos los meses una cantidad fija sin excusas.
-
+Para empezar a intervir en acciones, lo haremos comprando **ETFs**.
 
 {{< admonition note >}}
+Un **Exchange-Traded Fund (ETF)** es un fondo de inversión indexado que cotiza en bolsa.
+
+Si quieres saber más sobre ETFs, te recomiendo leer [éste artículo](https://www.perrodinero.blog/posts/etf) del blog de _perrodinero.blog_
 {{< /admonition >}}
 
-{{< admonition tip >}}
-A **tip**
-{{< /admonition >}}
+Y para comprar ETFs, utilizaremos la plataforma de **GBMHomebroker**. Crear una cuenta es un proceso muy sencillo y solo necesitas $1,000 para empezar. Así que ve a [gbmhomebroker.com](https://www.gbmhomebroker.com/) y regresa aquí cuando ya la hayas fondeado.
 
-{{< admonition warning >}}
-{{< /admonition >}}
-
-{{< admonition question >}}
-{{< /admonition >}}
-
-{{< admonition failure >}}
-A **failure** banner
-{{< /admonition >}}
-
-{{< admonition danger >}}
-A **danger** banner
-{{< /admonition >}}
-
-{{< admonition bug >}}
-A **bug** banner
-{{< /admonition >}}
-
-{{< admonition example >}}
-An **example** banner
-{{< /admonition >}}
+Ahora sí, vamos a comprar nuestro ¡primer título! del ETF **VWO**.
 
 {{< admonition quote >}}
-A **quote** banner
+El ETF VWO busca replicar el rendimiento de un índice de referencia que mide el rendimiento de la inversión de acciones emitidas por empresas ubicadas en países de **mercados emergentes**
 {{< /admonition >}}
 
-{{< admonition success >}}
-A **success** banner
+Para comprar un título de ETF:
+1. En el menú derecho, da clic en **_Capitales_**
+2. En **_Emisora_** coloca **VWO**
+3. En **_Tipo de orden_** selecciona **Limitada**
+4. En **_Títulos_** coloca **1**
+5. En **_Duración_** selecciona 7 días
+6. Da clic en **_Comprar_**
+
+![Comprar un ETF en GBMHomeBroker](/images/2020-08-08/1-GBMHomeBroker-Comprar-ETF.png "Comprar un ETF en GBMHomeBroker")
+
+{{< admonition tip >}}
+Si fondeaste tu cuenta con más de $1,000, puedes seleccionar más títulos u otros ETFs que te comentaré más adelante
 {{< /admonition >}}
 
-{{< admonition abstract >}}
-An **abstract** banner
+¡Listo! Ya con esto habrás hecho tu primera inversión en bolsa, renta variable, acciones... la verdad tiene varios nombres xD.
+
+
+## Paso 4. Seguir invirtiendo en forma constante
+
+Aquí el truco para ganar mejores rendimientos a largo plazo, es comprar acciones de forma constante sin importar si el precio baja o sube. Esto lo explica muy bien **Eduardo Rosas** en [este video](https://www.youtube.com/watch?v=YVBQeF6YFj0) y hasta con un ejemplo.
+
+Así que, debemos de estar transfiriendo una cantidad fija cada quincena o cada mes a nuestra cuenta de GBMHomebroker y de Cetesdirecto de forma diversificada.
+
+Para saber cuál es la mejor forma de diversificar, existe un modelo que nos ahorrará la chamba: el **modelo de Swensen**. El cual lo adaptaremos para poderlo usar con ETFs.
+
+{{< admonition tip >}}
+Te recomiendo mucho MUCHO ver [este video](https://www.youtube.com/watch?v=DfCy_OovD0Y) del canal de YouTube de **Eduardo Rosas**, en el cual me baso completamente para seguir el modelo de Swensen usando ETFs.
 {{< /admonition >}}
 
-{{< admonition info >}}
-A **info** banner
-{{< /admonition >}}
+Supongamos que cada mes invertirás $5,000, así que los dividirás de ésta forma:
+
+---
+
+![Distribución de $5,000 siguiendo el modelo de Swensen](/images/2020-08-08/2-Modelo-de-Swensen-cantidades.png "Distribución de $5,000 siguiendo el modelo de Swensen")
+
+_**NOTA**: Los CETEs y los UDIBONOS lo comprarías en Cetesdirecto y los otros ETFs en GBMHomeBroker._
+
+---
+
+Poco a poco tu portafolio se empezará a ver así:
+
+![Portafolio de inversión](/images/2020-08-08/3-Modelo-de-Swensen-gráfica.png "Portafolio de inversión")
 
