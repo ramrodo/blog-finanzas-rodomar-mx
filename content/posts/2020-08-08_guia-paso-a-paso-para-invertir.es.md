@@ -63,6 +63,8 @@ Aquí te pongo 3 ejemplos de los diferentes instrumentos en los que puedes inver
 
 Como te habrás dado cuenta, algunos instrumentos se repiten (como los CETEs) y se combinan con otros, esto es porque a largo plazo, diversificar tu inversión es primordial para distribuir el riesgo y que tu portafolio de inversión sea robusto en tiempos difíciles.
 
+¿Por qué es importante la meta? Porque no vas a meter el dinero de tu renta a acciones, ni tampoco todo tu ahorro para el retiro en solamente CETEs. El plazo importa mucho para elegir el instrumento de inversión adecuado.
+
 ### 2. Constancia
 
 Como todo en la vida, la clave está en la constancia. Ser muy disciplinado en ahorrar para tu meta y no gastarte ese dinero en otras cosas, te ayudará a que tus inversiones den sus frutos.
@@ -71,7 +73,7 @@ Como todo en la vida, la clave está en la constancia. Ser muy disciplinado en a
 
 No es recomendable ahorrar e invertir si tienes deudas (excepto si es una hipoteca, ya que tu casa se puede convertir en un activo). Imagina que generas $100 de rendimiento pero tienes una deuda que te genera $500 de interés, en vez de ganar, estarás perdiendo dinero. O en vez de ahorrar solo $500, si no tuvieras esa deuda, estarías ahorrando $1,000. Así que paga tus deudas antes de empezar a invertir.
 
-## Paso 1: Ahorrar $10,000.-
+## Paso 1: Ahorrar $10,000
 
 {{< admonition success "Instrumento/Plataforma de inversión a utilizar" >}}
 Colocar este ahorro en tu cuenta de [cetesdirecto.com](https://www.cetesdirecto.com/) cada quincena o pago que recibas
@@ -131,13 +133,19 @@ En caso de que tengas 3 meses de ahorro o más, puedes dividir ese monto en 4 y 
 
 Ya con este ahorro de 3 meses, tendrás un **fondo de emergencias básico** y te permitirá invertir más en otros instrumentos.
 
+**Ojo:** Podrías decir...
+
+_"¡nah! esto del fondo de emergencias es para los que no saben administrar su dinero, o qué trillado... en todos lados dicen lo mismo, qué aburrido. Éste paso me lo voy a saltar."_
+
+Pero lo cierto es que este fondo de emergencias te ayudará a que tus siguientes ahorros sean exclusivos a tus inversiones y tu dinero crezca relativamente rápido y constante.
+
 ## Paso 3: Invertir en acciones (a través de ETFs)
 
 ¿Ya tan rápido invertir en acciones? Sí, aquí vamos al grano.
 
 Claro, al leer este artículo por completo en una sola sentada, te puede parecer muy rápido para invertir en acciones. La verdad es que si has seguido los pasos anteriores empezando desde cero, al llegar a este paso ya han pasado 3 meses, 6 meses o incluso un año. Así que puedes regresar cuando quieras aquí para leer cuál es el siguiente paso una vez que hayas completados los anteriores.
 
-Para empezar a intervir en acciones, lo haremos comprando **ETFs**.
+Aquí para invertir en acciones, no lo haremos comprando acciones individuales de una sola empresa, ni tampoco haciendo _trading_ (comprar y vender acciones varias veces al día), sino lo haremos a través de invertir con **ETFs** y no preocuparnos por si bajan o suben los precios de las acciones. Haremos que el dinero genere más dinero y trabaje para nosotros.
 
 {{< admonition note >}}
 Un **Exchange-Traded Fund (ETF)** es un fondo de inversión indexado que cotiza en bolsa.
@@ -169,8 +177,9 @@ Si fondeaste tu cuenta con más de $1,000, puedes seleccionar más títulos u ot
 
 ¡Listo! Ya con esto habrás hecho tu primera inversión en bolsa, renta variable, acciones... la verdad tiene varios nombres xD.
 
+**IMPORTANTE:** Aunque este proceso de comprar acciones parezca fácil, es importante que tú investigues más a fondo sobre ETFs y acciones, ya que antes de invertir en un instrumento o plataforma de inversión, tienes que entenderlo muy bien; esto te ayudará a disminuir el riesgo de tus inversiones.
 
-## Paso 4. Seguir invirtiendo en forma constante
+## Paso 4: Seguir invirtiendo de forma constante
 
 Aquí el truco para ganar mejores rendimientos a largo plazo, es comprar acciones de forma constante sin importar si el precio baja o sube. Esto lo explica muy bien **Eduardo Rosas** en [este video](https://www.youtube.com/watch?v=YVBQeF6YFj0) y hasta con un ejemplo.
 
@@ -182,7 +191,7 @@ Para saber cuál es la mejor forma de diversificar, existe un modelo que nos aho
 Te recomiendo mucho MUCHO ver [este video](https://www.youtube.com/watch?v=DfCy_OovD0Y) del canal de YouTube de **Eduardo Rosas**, en el cual me baso completamente para seguir el modelo de Swensen usando ETFs.
 {{< /admonition >}}
 
-Supongamos que cada mes invertirás $5,000, así que los dividirás de ésta forma:
+Supongamos que cada mes invertirás $5,000, así que los dividirás de esta forma:
 
 ---
 
@@ -190,9 +199,12 @@ Supongamos que cada mes invertirás $5,000, así que los dividirás de ésta for
 
 _**NOTA**: Los CETEs y los UDIBONOS lo comprarías en Cetesdirecto y los otros ETFs en GBMHomeBroker._
 
----
-
 Poco a poco tu portafolio se empezará a ver así:
 
+---
+
 ![Portafolio de inversión](/images/2020-08-08/3-Modelo-de-Swensen-gráfica.png "Portafolio de inversión")
+
+## Y ahora, ¿qué más sigue?
+
 
