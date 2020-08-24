@@ -141,6 +141,10 @@ _"¡Nah! esto del fondo de emergencias es para los que no saben administrar su d
 
 Pero lo cierto es que este fondo de emergencias te ayudará a que tus siguientes ahorros sean exclusivos a tus inversiones y tu dinero crezca relativamente rápido y constante.
 
+{{< admonition info >}}
+No invertimos en CETEs por su alto rendimiento, si no para diversificar nuestro portafolio entre inversiones de muy bajo riesgo (como los CETEs) y activos de alto riesgo (como las acciones).
+{{< /admonition >}}
+
 ## Paso 3: Invertir en acciones (a través de ETFs)
 
 ¿Ya tan rápido invertir en acciones? Sí, aquí vamos al grano.
@@ -155,7 +159,9 @@ Un **Exchange-Traded Fund (ETF)** es un fondo de inversión indexado que cotiza 
 Si quieres saber más sobre ETFs, te recomiendo leer [éste artículo](https://www.perrodinero.blog/posts/etf) del blog de _perrodinero.blog_
 {{< /admonition >}}
 
-Y para comprar ETFs, utilizaremos la plataforma de **GBMHomebroker**. Crear una cuenta es un proceso muy sencillo y solo necesitas $1,000 para empezar. Así que ve a [gbmhomebroker.com](https://www.gbmhomebroker.com/) y regresa aquí cuando ya la hayas fondeado.
+Y para comprar ETFs utilizaremos **GBMHomebroker**, una plataforma donde podremos comprar desde acciones, fondos o ETFs.
+
+Crear una cuenta es un proceso muy sencillo y solo necesitas $1,000 para empezar. Así que ve a [gbmhomebroker.com](https://www.gbmhomebroker.com/) y regresa aquí cuando ya la hayas fondeado.
 
 Ahora sí, vamos a comprar nuestro ¡primer título! del ETF **VWO**.
 
@@ -221,7 +227,7 @@ Pero... ¿qué más sigue una vez que ya tengas tu portafolio de inversión? Aqu
 
 - Invierte en deuda a través de SOFIPOS (Sociedades Financieras Populares), ya que los intereses generados por estas Sociedades están **libres de impuestos (ISR)** hasta por 5 UMAs anualmente ($158,469 en 2020).
 
-- Explorar plataformas **FinTech** para invertir, pero con un porcentaje muy bajo de tu portafolio (**5% máximo**), ya que aún no están reguladas y pueden aumentar mucho riesgo en tu portafolio.
+- Explorar plataformas **FinTech** para invertir, o incluso criptomonedas, pero con un porcentaje muy bajo de tu portafolio (**de 5% a 10% máximo**), ya que aún no están reguladas y pueden aumentar mucho riesgo en tu portafolio. Puedes tomar este dinero como Just-For-Fun.
 
 - Empieza a ahorrar para tu retiro, investiga sobre qué es un **PPR (Plan Personal de Retiro)** para que así puedas cuidar de tu yo del futuro; aparte de la gran ventaja de que estos ahorros son deducibles hasta cierto monto (10% de nuestro ingreso anual o cinco salarios mínimos elevados al año, lo que resulte menor).
 
