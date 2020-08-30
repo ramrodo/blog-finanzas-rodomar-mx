@@ -141,6 +141,10 @@ _"¡Nah! esto del fondo de emergencias es para los que no saben administrar su d
 
 Pero lo cierto es que este fondo de emergencias te ayudará a que tus siguientes ahorros sean exclusivos a tus inversiones y tu dinero crezca relativamente rápido y constante.
 
+{{< admonition info >}}
+No invertimos en CETEs por su alto rendimiento, si no para diversificar nuestro portafolio entre inversiones de muy bajo riesgo (como los CETEs) y activos de alto riesgo (como las acciones).
+{{< /admonition >}}
+
 ## Paso 3: Invertir en acciones (a través de ETFs)
 
 ¿Ya tan rápido invertir en acciones? Sí, aquí vamos al grano.
@@ -155,7 +159,9 @@ Un **Exchange-Traded Fund (ETF)** es un fondo de inversión indexado que cotiza 
 Si quieres saber más sobre ETFs, te recomiendo leer [éste artículo](https://www.perrodinero.blog/posts/etf) del blog de _perrodinero.blog_
 {{< /admonition >}}
 
-Y para comprar ETFs, utilizaremos la plataforma de **GBMHomebroker**. Crear una cuenta es un proceso muy sencillo y solo necesitas $1,000 para empezar. Así que ve a [gbmhomebroker.com](https://www.gbmhomebroker.com/) y regresa aquí cuando ya la hayas fondeado.
+Y para comprar ETFs utilizaremos **GBM+** (antes conocido como _GBMHomeBroker_), una plataforma donde podremos comprar desde acciones, fondos o ETFs.
+
+Crear una cuenta es un proceso muy sencillo y solo necesitas $1,000 para empezar. Así que ve a [plus.gbm.com](https://plus.gbm.com/) y regresa aquí cuando ya hayas fondeado tu cuenta.
 
 Ahora sí, vamos a comprar nuestro ¡primer título! del ETF **VWO**.
 
@@ -163,7 +169,8 @@ Ahora sí, vamos a comprar nuestro ¡primer título! del ETF **VWO**.
 El ETF VWO busca replicar el rendimiento de un índice de referencia que mide el rendimiento de la inversión de acciones emitidas por empresas ubicadas en países de **mercados emergentes**: China, Taiwán, India, Brasil, Rusia, México [y más](https://www.vanguardmexico.com/institucional/productos/es/detalles/etf/0964/renta-variable).
 {{< /admonition >}}
 
-Para comprar un título de ETF en la plataforma de GBMHomeBroker:
+Para comprar un título de ETF en la plataforma de GBM+:
+1. En tu _Dashboard_ da clic en **_TRADING_** (No es que vayamos a hacer _Trading_ como tal, pero así se llama el servicio en GBM+)
 1. En el menú derecho, da clic en **_Capitales_**
 2. En **_Emisora_** coloca **VWO**
 3. En **_Tipo de orden_** selecciona **Limitada**
@@ -171,7 +178,7 @@ Para comprar un título de ETF en la plataforma de GBMHomeBroker:
 5. En **_Duración_** selecciona 7 días
 6. Da clic en **_Comprar_**
 
-![Comprar un ETF en GBMHomeBroker](/images/2020-08-08/1-GBMHomeBroker-Comprar-ETF.png "Comprar un ETF en GBMHomeBroker")
+![Comprar un ETF en GBM+](/images/2020-08-08/1-GBMHomeBroker-Comprar-ETF.png "Comprar un ETF en GBM+")
 
 {{< admonition tip >}}
 Si fondeaste tu cuenta con más de $1,000, puedes seleccionar más títulos de _VWO_ u otros ETFs que te comentaré más adelante.
@@ -185,7 +192,7 @@ Si fondeaste tu cuenta con más de $1,000, puedes seleccionar más títulos de _
 
 Aquí el truco para ganar mejores rendimientos a largo plazo, es comprar acciones de forma constante sin importar si el precio baja o sube. Esto lo explica muy bien Eduardo Rosas en [este video](https://www.youtube.com/watch?v=YVBQeF6YFj0) y hasta con un ejemplo.
 
-Así que, debemos de **transferir una cantidad fija cada quincena o cada mes** a nuestra cuenta de GBMHomebroker y de Cetesdirecto, dividiendo este monto de forma **diversificada**.
+Así que, debemos de **transferir una cantidad fija cada quincena o cada mes** a nuestra cuenta de GBM+ y de Cetesdirecto, dividiendo este monto de forma **diversificada**.
 
 Para saber cuál es la mejor forma de diversificar, existe un modelo que nos ahorrará la chamba: el **modelo de Swensen**; el cual lo adaptaremos para poder aplicarlo usando ETFs.
 
@@ -199,7 +206,11 @@ Supongamos que cada mes invertirás $5,000, así que los dividirías de esta for
 
 ![Distribución de $5,000 siguiendo el modelo de Swensen](/images/2020-08-08/2-Modelo-de-Swensen-cantidades.png "Distribución de $5,000 siguiendo el modelo de Swensen")
 
-_**NOTA**: Los CETEs y los UDIBONOS los comprarías en Cetesdirecto y los otros ETFs en GBMHomeBroker._
+**_NOTAS_**:
+- Los CETEs y los UDIBONOS los comprarías en Cetesdirecto y los otros ETFs en GBM+
+- Habrá algunos ETFs que podrían costar más de lo que ahorres, en este caso, manten tu dinero en esa cuenta y sigue ahorrando hasta que alcances el monto requerido
+
+---
 
 Poco a poco tu portafolio se empezará a ver así:
 
@@ -219,9 +230,11 @@ Pero... ¿qué más sigue una vez que ya tengas tu portafolio de inversión? Aqu
 
 - **Lee más** sobre ETFs, diferentes instrumentos de inversión en México (y fuera de), sobre las diferentes plataformas que ya existen para invertir. Sigue leyendo y aprendiendo más sobre ahorro e inversión. No te conformes con lo que yo te diga en una entrada de blog. En una entrada posterior haré una lista de libros y fuentes acerca de cómo invertir (aparte de las que ya te mencioné más arriba).
 
-- Invierte en deuda a través de SOFIPOS (Sociedades Financieras Populares), ya que los intereses generados por estas Sociedades están **libres de impuestos (ISR)** hasta por 5 UMAs anualmente ($158,469 en 2020).
+- Invierte a través de SOFIPOS (Sociedades Financieras Populares), ya que los intereses generados por estas Sociedades están **libres de impuestos (ISR)** hasta por 5 UMAs anualmente ($158,469 en 2020); incluso puedes generar más rendimientos que CETEs (obviamente asumiendo más riesgo). Algunos ejemplos de SOFIPOS son: [SuperTasas](https://supertasas.com/tarjeta-de-regalo/?code=T1RR1), [Financiera Sustentable (FINSUS)](https://financierasustentable.com/) o [Kubo Financiero](https://www.kubofinanciero.com/Kubo/Portal/index.xhtml).
 
-- Explorar plataformas **FinTech** para invertir, pero con un porcentaje muy bajo de tu portafolio (**5% máximo**), ya que aún no están reguladas y pueden aumentar mucho riesgo en tu portafolio.
+- Explorar plataformas **FinTech** para invertir, o incluso criptomonedas, pero con un porcentaje muy bajo de tu portafolio (**de 5% a 10% máximo**), ya que aún no están reguladas y pueden aumentar mucho riesgo en tu portafolio. Puedes tomar este dinero como Just-For-Fun.
+
+- Rebalancea tu portafolio una o dos veces por año. Rebalancear tu portafolio te asegurará que tus activos permanecen distribuidos correctamente y te protege a ser vulnerable ante altas y bajas de un sector en específico.
 
 - Empieza a ahorrar para tu retiro, investiga sobre qué es un **PPR (Plan Personal de Retiro)** para que así puedas cuidar de tu yo del futuro; aparte de la gran ventaja de que estos ahorros son deducibles hasta cierto monto (10% de nuestro ingreso anual o cinco salarios mínimos elevados al año, lo que resulte menor).
 
