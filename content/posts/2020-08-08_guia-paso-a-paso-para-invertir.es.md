@@ -45,10 +45,10 @@ Aquí te pongo 3 ejemplos de los diferentes instrumentos en los que puedes inver
 
 **Mediano plazo:**
 
-| ¿Qué?                                  | ¿Cuánto?   | ¿Para cuándo? | Instrumentos              |
-|:--------------------------------------:|:----------:|:-------------:|:-------------------------:|
-| Un viaje por todo Europa               | $150,000.- | 3 años        | CETEs y Acciones (ETFs)   |
-| Enganche para una casa                 | $300,000.- | 5 años        | CETEs y Acciones (ETFs)   |
+| ¿Qué?                                  | ¿Cuánto?   | ¿Para cuándo? | Instrumentos                   |
+|:--------------------------------------:|:----------:|:-------------:|:------------------------------:|
+| Un viaje por todo Europa               | $150,000.- | 3 años        | CETEs y Bienes raíces (ETFs)   |
+| Enganche para una casa                 | $300,000.- | 5 años        | CETEs y Bienes raíces (ETFs)   |
 
 ---
 
