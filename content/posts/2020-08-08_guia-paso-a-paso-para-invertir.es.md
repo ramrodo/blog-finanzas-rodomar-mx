@@ -170,7 +170,7 @@ El ETF VWO busca replicar el rendimiento de un índice de referencia que mide el
 {{< /admonition >}}
 
 Para comprar un título de ETF en la plataforma de GBM+:
-1. En tu _Dashboard_ da clic en **_TRADING_** (No es que vayamos a hacer _Trading_ como tal, pero así se llama el servicio en GBM+)
+0. En tu _Dashboard_ da clic en **_TRADING_** (No es que vayamos a hacer _Trading_ como tal, pero así se llama el servicio en GBM+)
 1. En el menú derecho, da clic en **_Capitales_**
 2. En **_Emisora_** coloca **VWO**
 3. En **_Tipo de orden_** selecciona **Limitada**
