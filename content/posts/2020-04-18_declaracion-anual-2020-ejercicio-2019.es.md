@@ -21,6 +21,12 @@ En este artículo les explicaré paso a paso cómo realizar la **Declaración An
 Ésta guía está enfocada para **Personas Físicas** con régimen de **Sueldos, salarios y asimilados.**
 {{< /admonition >}}
 
+{{< admonition warning >}}
+Ésta guía fue escrita para la **Declaración Anual 2020 (Ejercicio 2019)** y aunque cada año el proceso es muy parecido, puede que cambie en 2021 en adelante.
+
+Además, si intentas hacer ésta Declaración Anual antes de Abril, el sistema te arrojará un error.
+{{< /admonition >}}
+
 ## 1. Ingresa al SAT
 
 Primero, navega a la [página del SAT](https://www.sat.gob.mx/home), ve al menú de **Declaraciones** y da clic a la opción **"Presenta tu declaración anual de personas físicas 2019"**:
