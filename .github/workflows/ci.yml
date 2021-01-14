@@ -1,0 +1,36 @@
+name: CI
+on:
+  workflow_dispatch:
+    branches:
+    - master
+  push:
+    branches:
+    - master
+  pull_request:
+    branches:
+    - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    # Check out master branch from the repo.
+    - name: Checkout master branch
+      uses: actions/checkout@v2
+      with:
+        submodules: true  # Fetch Hugo themes
+        fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+    # Sets up the latest version of Hugo
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+          hugo-version: 'latest'
+
+    # Clean and don't fail
+    - name: Clean public directory
+      run: rm -rf public
+
+    # Builds the site using the latest version of Hugo
+    - name: Build
+      run: hugo -D
