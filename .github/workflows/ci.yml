@@ -19,9 +19,9 @@ jobs:
     - name: Checkout master branch
       uses: actions/checkout@v2
       with:
-        submodules: recursive  # Fetch Hugo themes
+        submodules: true  # Fetch Hugo themes
         fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
         ref: master
     # Ensure the site succeeds Hugo builds. If it fails for some reason, the pipeline will halt.
-    - name: Build site with Hugo
-      uses: lowply/build-hugo@v0.74.1
+    - name: Build Hugo
+      uses: lowply/build-hugo@v0.79.0
