@@ -24,4 +24,4 @@ jobs:
         ref: master
     # Ensure the site succeeds Hugo builds. If it fails for some reason, the pipeline will halt.
     - name: Build site with Hugo
-      uses: lowply/build-hugo@v0.74.1
+      run: hugo -D
