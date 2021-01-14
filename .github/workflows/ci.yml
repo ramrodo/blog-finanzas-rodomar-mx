@@ -12,7 +12,6 @@ on:
 
 jobs:
   build:
-  # In this phase, the code is pulled from master and the site rendered in Hugo. The built site is stored as an artifact for other stages.
     runs-on: ubuntu-latest
     steps:
     # Check out master branch from the repo.
@@ -21,7 +20,17 @@ jobs:
       with:
         submodules: true  # Fetch Hugo themes
         fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-        ref: master
-    # Ensure the site succeeds Hugo builds. If it fails for some reason, the pipeline will halt.
-    - name: Build Hugo
-      uses: lowply/build-hugo@v0.79.0
+
+    # Sets up the latest version of Hugo
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+          hugo-version: 'latest'
+
+    # Clean and don't fail
+    - name: Clean public directory
+      run: rm -rf public
+
+    # Builds the site using the latest version of Hugo
+    - name: Build
+      run: hugo -D
