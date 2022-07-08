@@ -11,7 +11,7 @@ on:
     - master
 
 jobs:
-  build:
+  Hugo-build:
     runs-on: ubuntu-latest
     steps:
     # Check out master branch from the repo.
