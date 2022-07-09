@@ -104,7 +104,9 @@ Así que durante todo 2021, estuve ahorrando para el enganche. Básicamente ahor
 - Cierta cantidad fija y constante cada quincena
 - Cualquier ingreso extra como utilidades, bonos y aguinaldos
 
-Como no estaba seguro de la fecha exacta en que iba a ocupar el dinero pero sí sabía que quería juntar el enganche para el próximo año o año y medio, decidí invertir la mayor parte (70%) en renta fija (SuperTasas a 3 meses) y una pequeña parte (30%) en ETFs de FIBRAS en la bolsa (FUNO 11 y FIHO 12).
+Como no estaba seguro de la fecha exacta en que iba a ocupar el dinero pero sí sabía que quería juntar el enganche para el próximo año o año y medio, decidí invertir la mayor parte (70%) en renta fija (SuperTasas a 6 y 12 meses) y una pequeña parte (30%) en ETFs de FIBRAS en la bolsa (FUNO 11 y FIHO 12):
+
+![Distribución del ahorro para el enganche](/images/2020-09-13/2_distribución-enganche.png "Distribución del ahorro para el enganche")
 
 ## Comparación de departamentos (Enero 2021 a Enero 2022)
 
