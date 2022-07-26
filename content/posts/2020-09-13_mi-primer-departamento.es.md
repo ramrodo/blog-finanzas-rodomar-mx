@@ -108,13 +108,31 @@ Como no estaba seguro de la fecha exacta en que iba a ocupar el dinero pero sí 
 
 ![Distribución del ahorro para el enganche](/images/2020-09-13/2_distribución-enganche.png "Distribución del ahorro para el enganche")
 
-## Comparación de departamentos (Enero 2021 a Enero 2022)
+## Comparación de departamentos (Enero 2021 a Febrero 2022)
 
-De igual forma, durante todo 2021, estuve buscando y comparando departamentos dentro de la ciudad. Algunos eran muy caros pero muy céntricos y otros más accesibles pero fuera de la Zona Metropolitana de la ciudad.
+De igual forma, durante todo 2021, estuve buscando y comparando departamentos dentro de la ciudad. Algunos eran muy caros pero muy céntricos y otros más baratos pero fuera de la Zona Metropolitana de Guadalajara.
 
-Aproximadamente comparé unos 12 desarrollos.
+Aproximadamente comparé un poco más de 10 desarrollos inmobiliarios.
 
-<!-- TODO: Colocar las corridas y precios de los 12 desarrollos por si alguien quiere revisarlo -->
+Aquí te coloco algunas de las corridas de precios que estuve recolectando y la fecha en la que obtuve el archivo por si quieres tomarlos de referencia y comparar precios más adelante:
+
+[:(far fa-file-pdf fa-fw): 2020-08_GaribaldiPerse](<https://s3.amazonaws.com/finanzas.rodomar.mx/assets/files/precios-desarrollos-inmobiliarios/2020-08_GaribaldiPerse.pdf>)
+
+[:(far fa-file-pdf fa-fw): 2020-09_MiguelLerdoDeTejada2620](<https://s3.amazonaws.com/finanzas.rodomar.mx/assets/files/precios-desarrollos-inmobiliarios/2020-09_MiguelLerdoDeTejada2620.pdf>)
+
+[:(far fa-file-image fa-fw): 2020-09_PuertaProvidencia](<https://s3.amazonaws.com/finanzas.rodomar.mx/assets/files/precios-desarrollos-inmobiliarios/2020-09_PuertaProvidencia.jpg>)
+
+[:(far fa-file-pdf fa-fw): 2021-08_Luna1807](<https://s3.amazonaws.com/finanzas.rodomar.mx/assets/files/precios-desarrollos-inmobiliarios/2021-08_Luna1807.pdf>)
+
+[:(far fa-file-pdf fa-fw): 2021-08_PuntoAguaAzul](<https://s3.amazonaws.com/finanzas.rodomar.mx/assets/files/precios-desarrollos-inmobiliarios/2021-08_PuntoAguaAzul.pdf>)
+
+[:(far fa-file-excel fa-fw): 2021-09_CitáLiveIn](<https://s3.amazonaws.com/finanzas.rodomar.mx/assets/files/precios-desarrollos-inmobiliarios/2021-09_Cit%C3%A1LiveIn.xlsx>)
+
+[:(far fa-file-pdf fa-fw): 2021-10_LosMaestros](<https://s3.amazonaws.com/finanzas.rodomar.mx/assets/files/precios-desarrollos-inmobiliarios/2021-10_LosMaestros.pdf>)
+
+[:(far fa-file-pdf fa-fw): 2021-10_Parker](<https://s3.amazonaws.com/finanzas.rodomar.mx/assets/files/precios-desarrollos-inmobiliarios/2021-10_Parker.pdf>)
+
+[:(far fa-file-pdf fa-fw): 2022-02_CoordenadaCentral](<https://s3.amazonaws.com/finanzas.rodomar.mx/assets/files/precios-desarrollos-inmobiliarios/2022-02_CoordenadaCentral.pdf>)
 
 ## Precalificación en Infonavit (Febrero 2022)
 
