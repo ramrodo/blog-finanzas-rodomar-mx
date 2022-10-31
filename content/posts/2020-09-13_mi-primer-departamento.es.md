@@ -29,15 +29,15 @@ Durante varios meses había estado pensando en qué es lo que quería tener desp
 - ¿a las afueras de la ciudad o céntrico?
 - ¿crédito Infonavit o bancario?
 
-Y fue cuando empecé a ver videos o leer blogs acerca de cómo adquirir tu primer casa; encontré demasiada información e incluso tan diversa que me confundía. Unos recomendaban una cosa mientras otros la consideraban la peor opción. Sin embargo, fui familiarizandome poco a poco con los conceptos y productos que hay afuera, por lo que aquí te explicaré lo que aprendí (y lo que voy aprendiendo en el camino):
+Y fue cuando empecé a ver videos y leer blogs acerca de cómo adquirir tu primer casa; encontré demasiada información e incluso tan diversa que me confundía. Unos recomendaban una cosa mientras otros la consideraban la peor opción. Sin embargo, fui familiarizandome poco a poco con los conceptos y productos que hay afuera, por lo que aquí te explicaré lo que aprendí (y lo que voy aprendiendo en el camino):
 
 **_¿rentar es tirar el dinero?_**
 
-No, de hecho en algunos casos te conviene rentar en vez de comprar. En mi caso particular me conviene rentar ya que:
+No, de hecho en algunos casos te conviene rentar en vez de comprar. En mi caso particular me convenía rentar ya que:
 
-- me permite ahorrar e invertir la diferencia entre el costo de la renta y del pago de una hipoteca, logrando así tener un buen ahorro y dar un mayor enganche para comprar mi departamento, lo que se traduce solicitar un menor monto para el crédito hipotecario y por consiguiente, pagar menos intereses.
-- me permite vivir en una colonia cara a cambio de una renta a un precio justo. Caso muy diferente a adquirir una casa en la misma zona pero con un precio exagerado.
-- no tengo dependientes económicos aún, por lo que rentar me permite tener más flexibilidad de mudarme en caso de que ya no me agrade el lugar o la zona y a su vez, conocer y vivir en otras partes de la ciudad.
+- me permitía ahorrar e invertir la diferencia entre el costo de la renta y del pago de una hipoteca, logrando así tener un buen ahorro y dar un mayor enganche para comprar mi departamento, lo que se traduce solicitar un menor monto para el crédito hipotecario y por consiguiente, pagar menos intereses.
+- me permitía vivir en una colonia cara a cambio de una renta a un precio justo. Caso muy diferente a adquirir una casa en la misma zona pero con un precio exagerado.
+- no tengo dependientes económicos aún, por lo que rentar me permitía tener más flexibilidad de mudarme en caso de que ya no me agrade el lugar o la zona y a su vez, conocer y vivir en otras partes de la ciudad.
 
 **_¿departamento o casa?_***
 
@@ -49,11 +49,13 @@ Ya que soy soltero por el momento y no pienso tener hijos en el corto plazo, dec
 
 **_¿a las afueras de la ciudad o céntrico?_**
 
-Como no tengo carro y tampoco pienso comprar uno a corto plazo, vivir a las afueras de la ciudad no es una opción ya que regularmente no hay transporte muy accesible a esas zonas. A parte de que se encuentran muy lejos de las zonas céntricas que frecuento regularmente ya sea por trabajo o por salidas sociales. Buscaré un departamento que tampoco esté tan céntrico ya que esa zona es muy cara y se sale de mi presupuesto para mi primer departamento.
+Como no tengo carro y tampoco pienso comprar uno a corto plazo, vivir a las afueras de la ciudad no es una opción ya que regularmente no hay transporte muy accesible a esas zonas; aparte de que se encuentran muy lejos de las zonas céntricas que frecuento regularmente ya sea por trabajo o por salidas sociales. Buscaré un departamento que tampoco esté tan céntrico ya que esa zona es muy cara y se sale de mi presupuesto para mi primer departamento.
 
 **_¿crédito Infonavit o bancario?_**
 
-Una combinación de ambas: **COFINAVIT**. Éste crédito te permite aprovechar el saldo de tu subcuenta para la vivienda de Infonavit y complementarlo con un crédito bancario, éste último será el de mayor monto ya que el crédito del Infonavit es de los más caros del mercado.
+Podría ser una combinación de ambas: **Cofinavit**. Éste crédito te permite aprovechar el saldo de tu subcuenta para la vivienda de Infonavit y complementarlo con un crédito bancario, éste último será el de mayor monto ya que el crédito del Infonavit es de los más caros del mercado.
+
+Todavía no decido esto así que acualizaré ésta parte cuando realice el trámite final.
 
 ## Día 0 (Septiembre 2020)
 
@@ -135,6 +137,33 @@ Aquí te coloco algunas de las corridas de precios que estuve recolectando y la 
 [:(far fa-file-pdf fa-fw): 2022-02_CoordenadaCentral](<https://s3.amazonaws.com/finanzas.rodomar.mx/assets/files/precios-desarrollos-inmobiliarios/2022-02_CoordenadaCentral.pdf>)
 
 ## Precalificación en Infonavit (Febrero 2022)
+
+### Nuevo Portal
+
+A partir de Octubre de 2022, el Infonavit renovó su Portal web de Mi Cuenta Infonavit y su Portal Institucional ([https://portalmx.infonavit.org.mx](https://portalmx.infonavit.org.mx)), lo que mejoró mucho su usabilidad (ya que el Portal anterior tenía un diseño web de los años 2000). Te comparto el antes y el después por si llegas a leer o ver otro tutorial y sepas si está actualizado o no:
+
+Antes:
+
+![Portal Viejo de Mi Cuenta Infonavit](/images/2020-09-13/3_portal-anterior.png "Portal Viejo de Mi Cuenta Infonavit")
+
+Después:
+
+![Portal Nuevo de Mi Cuenta Infonavit](/images/2020-09-13/4_portal-nuevo.png "Portal Nuevo de Mi Cuenta Infonavit")
+
+### Puntos Infonavit
+
+Para poder saber cuántos puntos tienes, inicia sesión en el [Portal de Mi Cuenta Infonavit](https://micuenta.infonavit.org.mx) y ve a **Tramitar mi crédito > Precalificación y puntos** del menú superior.
+
+Aquí podrás elegir entre dos opciones:
+
+1. Comprar vivienda, construir, ampliar o reparar mi vivienda o pagar mi hipoteca
+2. Comprar un terreno
+
+Cualquiera de las dos opciones que selecciones, podrás ver a continuación tus puntos Infonavit acumulados:
+
+![Puntos Infonavit acumulados](/images/2020-09-13/5_puntos-infonavit-acumulados.png "Puntos Infonavit acumulados")
+
+Por el momento no seguiré con el proceso ya que aún no decido si usar el crédito con Cofinavit o solamente crédito bancario.
 
 ## Elección del departamento (Febrero 2022)
 
