@@ -19,6 +19,8 @@ O lo que será mi primer departamento...
 
 Aquí registraré todo lo que vaya aprendiendo y haciendo para conseguir ésta gran meta.
 
+Dado que colocaré detalle a detalle sobre todo mi proceso y lo que fuí viviendo, este post puede parecerte muy largo. Asi que sáltate las partes que no te interesen mucho :).
+
 ## Antes del día 0
 
 Durante varios meses había estado pensando en qué es lo que quería tener después de ésta etapa de estar rentando un cuarto. Me hacía preguntas tipo:
@@ -167,10 +169,41 @@ Por el momento no seguiré con el proceso ya que aún no decido si usar el créd
 
 ## Elección del departamento (Febrero 2022)
 
-## Pago para apartar el departamento (Febrero 2022)
+Después de haber comparado los diferentes departamentos que te compartí más arriba, al fin "medio" pude decidirme por uno. Y pongo "medio" porque aún tenía muchas dudas al principio de: "¿es el más adecuado para mí?", "¿y si encuentro uno más barato y en mejor zona?", etc. Pero finalmente pude apartar el departamento con $10,000.- para que no me lo ganarán. Y tras una semana de varios días sin dormir o de estar cuestionándome por todo durante el día, pude al fin ir a dar el enganche del 10% y firmar el contrato de Oferta de compra.
+
+Asi que si se sienten igual a la hora de elegir, dar el apartado o el enganche de algún departamento o casa que hayan elegido, es normal que se sientan de la misma forma, con muchas dudas. Y es que la compra de un inmueble, por su alto valor, representa un decisión difícil para todas las personas.
+
+Yo me decidí por un departamento en el modelo de **Preventa** con una recámara, un espacio "Flex" que utilizaré como área de trabajo, 1 1/2 baños, sala, comedor y cocina. El cual quedará terminado hasta dentro de un año.
 
 ## Enganche del 10% (Febrero 2022)
 
-## Solicitud de crédito hipotecario en Preventa (Febrero 2022)
+Nunca había hecho una transferencia bancaria con tanto dinero como lo fue para éste enganche del 10% del departamento. Éste monto solo pude realizarlo con dinero de contado o de una tarjeta de débito, es decir, no se puede con una tarjeta de crédito. Y en caso de que se pudiera, es muy probable que te cobren una comisión por el uso de la terminal.
 
-## Enganche 10% en 10 mensualidades (Marzo 2022 a Diciembre 2022)
+En algunos casos, éste enganche también puede ser cubierto por el mismo crédito hipotecario o por parte del Infonavit (Cofinavit, solo Infonavit, etc.). Pero es muy común que la institución que te ofrecerá algún crédito hipotecario (y más si es privada como los bancos comerciales), te solicite que hayas dado al menos el 10% de enganche.
+
+De igual forma, yo te recomiendo que trates de juntar entre el 10% y 20% de enganche para que el crédito que solicites sea menor y por ende, no pagues tantos intereses.
+
+## Enganche de otro 10% en 10 mensualidades (Marzo 2022 a Diciembre 2022)
+
+A pesar de que dí el 10% de enganche del departamente, la inmobiliaria me ofreció un plan en donde pudiera dar otro 10% de enganche mediante pagos mensuales.
+
+De acuerdo a los otros proyectos que estuve comparando, me estuve encontrando con este financiamiento de mensualidades muy frecuentemente ya que varios de esos desarrollos estaban apenas en construcción y no iban a estar listos hasta dentro de 1 o 2 años. En mi caso quise elegir un departamento en Preventa ya que económicamente hablando es más barato que desarrollos ya construidos y entregados; y aparte, no tenía tanta urgencia de cambiarme de mi cuarto de renta.
+
+Éste periodo 10 meses de ahorro y pago fueron muy díficiles al inicio ya que, a pesar de que ya ahorraba por mi cuenta para el primer 10% de enganche, no ahorraba el 30% de mis ingresos, lo cual representaba el pago de éstas mensualidades, por lo que tuve que cambiar mis hábitos de gasto, limitarme a comprar otras cosas y ahorrar más de lo que tenía pensado.
+
+Éste nuevo presupuesto que tuve que realizar me ayudó mucho ya que se asemeja más a lo que estaré pagando de hipoteca cada mes una vez que tenga mi crédito hipotecario. Lo tomé como una prueba para saber si estaba listo para adquirir una hipoteca donde tenga que apartar casi el 30% de mis ingresos.
+
+## Solicitud de crédito hipotecario en Preventa (Marzo 2022)
+
+Una vez que firmé la Oferta de compra, busqué a un asesor de [Tu Hipoteca Fácil](https://www.facebook.com/THFTuHipotecaFacil/) en Guadalajara para que me ayudara a buscar y tramitar un crédito hipotecario para Preventa. Si quieres que te pase el contacto de mi asesor, mándame un correo a _rodomar@outlook.com_ o contáctame por alguna de mis redes sociales.
+
+Éste asesor me comentó que a ese momento (Marzo 2022), solo habían dos productos bancarios a los que podía aplicar ya que tenía menos de 6 meses en mi empleo actual:
+
+1. [Scotiabank](https://www.scotiabank.com.mx/personas/creditos/hipotecarios/compra-en-preventa.aspx)
+2. [Santander](https://www.santander.com.mx/hipotecario/preventa.html)
+
+Realizamos el trámite con Scotiabank a sabiendas que me lo podían rechazar ya que solicitaban por lo menos 6 meses de antigüedad laboral y por ésta razón, me lo rechazaron.
+
+Pero, un mes después, lo realizamos en Santander ya que éste me permitía juntar mi antigüedad actual con la anterior para juntar 1 año de antigüedad laborar y también para ese entonces, ya tenía 6 meses en mi empleo actual; por lo que sí me aprobaron mi crédito de Preventa con Santander.
+
+La tasa que me ofrecieron fue de **10.07%**.
