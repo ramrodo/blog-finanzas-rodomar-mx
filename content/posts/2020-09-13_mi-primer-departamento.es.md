@@ -165,7 +165,18 @@ Cualquiera de las dos opciones que selecciones, podrás ver a continuación tus 
 
 ![Puntos Infonavit acumulados](/images/2020-09-13/5_puntos-infonavit-acumulados.png "Puntos Infonavit acumulados")
 
-Por el momento no seguiré con el proceso ya que aún no decido si usar el crédito con Cofinavit o solamente crédito bancario.
+En ese momento, yo contaba con **1216** puntos Infonavit.
+
+Por el momento no seguiré con el proceso con Infonavit ya que aún no decido si usar el crédito con Cofinavit o solamente crédito bancario con **Apoyo Infonavit**.
+
+{{< admonition >}}
+El **Apoyo Infonavit** es un programa en el que:
+
+1. Tu Saldo de la Subcuenta de Vivienda queda como garantía del crédito hipotecario bancario en caso de que te quedes sin empleo.
+2. Las aportaciones futuras de tu empleador se depositarán directamente a capital del crédito hipotecario bancario
+
+(Más información [aquí en la sección Apoyo Infonavit](https://mi-infonavit.com.mx/apoyo-infonavit/) de la página de Infonavit)
+{{< /admonition >}}
 
 ## Elección del departamento (Febrero 2022)
 
