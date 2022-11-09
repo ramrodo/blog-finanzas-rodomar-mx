@@ -193,7 +193,7 @@ De acuerdo a los otros proyectos que estuve comparando, me estuve encontrando co
 
 Éste nuevo presupuesto que tuve que realizar me ayudó mucho ya que se asemeja más a lo que estaré pagando de hipoteca cada mes una vez que tenga mi crédito hipotecario. Lo tomé como una prueba para saber si estaba listo para adquirir una hipoteca donde tenga que apartar casi el 30% de mis ingresos.
 
-## Solicitud de crédito hipotecario en Preventa (Marzo 2022)
+## Solicitud de crédito hipotecario de Preventa (Marzo 2022)
 
 Una vez que firmé la Oferta de compra, busqué a un asesor de [Tu Hipoteca Fácil](https://www.facebook.com/THFTuHipotecaFacil/) en Guadalajara para que me ayudara a buscar y tramitar un crédito hipotecario para Preventa. Si quieres que te pase el contacto de mi asesor, mándame un correo a _rodomar@outlook.com_ o contáctame por alguna de mis redes sociales.
 
@@ -202,8 +202,33 @@ Una vez que firmé la Oferta de compra, busqué a un asesor de [Tu Hipoteca Fác
 1. [Scotiabank](https://www.scotiabank.com.mx/personas/creditos/hipotecarios/compra-en-preventa.aspx)
 2. [Santander](https://www.santander.com.mx/hipotecario/preventa.html)
 
-Realizamos el trámite con Scotiabank a sabiendas que me lo podían rechazar ya que solicitaban por lo menos 6 meses de antigüedad laboral y por ésta razón, me lo rechazaron.
+Los documentos que me solicitó para realizar el trámite fueron:
 
-Pero, un mes después, lo realizamos en Santander ya que éste me permitía juntar mi antigüedad actual con la anterior para juntar 1 año de antigüedad laborar y también para ese entonces, ya tenía 6 meses en mi empleo actual; por lo que sí me aprobaron mi crédito de Preventa con Santander.
+- Documento de Solicitud de Crédito Hipotecario: aquí se colocan tus datos personales, empleo u ocupación, información económica, referencias personales, patrimonio que tienes actualmente en cuentas bancarias, automóviles o vivienda y monto  del crédito a solicitar
+- Anexo B - Autorización para Tramitación de Crédito Hipotecario: para hacer constar que el trámite fue iniciado por el asesor de Tu Hipoteca Fácil
+- IFE/INE
+- Comprobante de ingresos o de nómina de los últimos 2 trabajos que tuve
+- Estado de cuenta de donde recibo mi nómina de los últimos 2 meses
+- Reporte Especial de Buró de Crédito
+- Comprobante de domicilio
+- Constancia de Situación Fiscal del SAT
+- Acta de nacimiento
+- CURP
 
-La tasa que me ofrecieron fue de **10.07%**.
+Una vez que mi asesor validó todos estos documentos, él envió mi solicitud al banco.
+
+Primero, realizamos el trámite con Scotiabank a sabiendas que me lo podían rechazar ya que solicitaban por lo menos 6 meses de antigüedad laboral y por ésta razón, me lo rechazaron.
+
+Pero, un mes después, lo realizamos con Santander ya que éste me permitía juntar mi antigüedad actual con la anterior para juntar 1 año en total y también para ese entonces, ya tenía 6 meses en mi empleo actual; por lo que sí me aprobaron mi crédito de Preventa con Santander.
+
+Los detalles de que mi crédito aprobado fueron:
+
+- **Tasa:** 10.07%
+- **Plazo:** 15 años
+- Afiliable a Hipoteca Plus: Sí
+
+Una vez que mi asesor me mandó la confirmación del crédito de Preventa, me comentó que debería estar atento para cuando ya se pueda realizar el avalúo (que el desarrollo cuente con régimen de condominio, cuenta catastral y habitabilidad) para continuar con la Fase II de la formalización del crédito.
+
+## Fin del pago de mensualidades y pago extra a capital (Diciembre 2022)
+
+TBD
