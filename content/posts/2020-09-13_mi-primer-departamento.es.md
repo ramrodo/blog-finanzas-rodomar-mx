@@ -19,7 +19,7 @@ O lo que será mi primer departamento...
 
 Aquí registraré todo lo que vaya aprendiendo y haciendo para conseguir ésta gran meta.
 
-Dado que colocaré detalle a detalle sobre todo mi proceso y lo que fuí viviendo, este post puede parecerte muy largo. Asi que sáltate las partes que no te interesen mucho :).
+Dado que colocaré detalle a detalle sobre todo mi proceso y lo que fuí viviendo, este post puede parecerte muy largo. Asi que sáltate las partes que no te interesen mucho.
 
 ## Antes del día 0
 
@@ -144,7 +144,7 @@ Aquí te coloco algunas de las corridas de precios que estuve recolectando y la 
 
 ### Nuevo Portal
 
-A partir de Octubre de 2022, el Infonavit renovó su Portal web de Mi Cuenta Infonavit y su Portal Institucional ([https://portalmx.infonavit.org.mx](https://portalmx.infonavit.org.mx)), lo que mejoró mucho su usabilidad (ya que el Portal anterior tenía un diseño web de los años 2000). Te comparto el antes y el después por si llegas a leer o ver otro tutorial y sepas si está actualizado o no:
+A partir de Octubre de 2022, el Infonavit renovó su Portal web de Mi Cuenta Infonavit y su [Portal Institucional](https://portalmx.infonavit.org.mx), lo que mejoró mucho su usabilidad (ya que el Portal anterior tenía un diseño web de los años 2000). Te comparto el antes y el después por si llegas a leer o ver otro tutorial y sepas si está actualizado o no:
 
 Antes:
 
