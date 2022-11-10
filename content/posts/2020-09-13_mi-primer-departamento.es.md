@@ -78,18 +78,20 @@ Y aquí me encontré con el primer gran problema. Al ingresar al [Portal de Mi C
 Al ver esto me sorprendió bastante, ya que cada mes (como parte del registro de mi portafolio de inversión) reviso el saldo de mi subcuenta para la vivienda y claramente veía que ésta aumentaba, pero nunca me metía a revisar ésta cuenta al Portal. Así que ahí va el primer consejo:
 
 {{< admonition tip Consejo >}}
-Entra al [Portal de Mi Cuenta Infonavit](https://micuenta.infonavit.org.mx) por lo menos una vez cada 3 meses, para revisar que tus datos y tus aportaciones están siendo registradas correctamente.
+Entra al [Portal de Mi Cuenta Infonavit](https://micuenta.infonavit.org.mx) por lo menos una vez cada 6 meses, para revisar que tus datos y tus aportaciones están siendo registradas correctamente.
 {{< /admonition >}}
 
-Me comuniqué a **Infonatel** _(559 171 5050 para CDMX o al 800 008 3900 desde el interior de la república)_ y me comentaron que me comunicará al departamento de Cŕedito, por lo que me guiaron qué opciones marcar para hablar con un asesor:
+Me comuniqué a **Infonatel** y me comentaron que me comunicará al departamento de Cŕedito, por lo que me guiaron qué opciones marcar para hablar con un asesor:
 
-1. Marcar al Conmutador de Infonatel
-2. Seleccionar Opción 1: Trabajador
-3. Seleccionar Opción 2: No cuento con crédito
+1. Marcar al Conmutador de Infonatel _(559 171 5050 para CDMX o al 800 008 3900 desde el interior de la república)_
+2. Seleccionar _Opción 1: Trabajador_
+3. Seleccionar _Opción 2: No cuento con crédito_
 4. Ingresar mi Número de Seguridad Social
-5. Seleccionar Opción 9: Hablar con un asesor
+5. Seleccionar _Opción 9: Hablar con un asesor_
 
-Me comentaron que tenía que ir a las oficinas del Infonavit ya que había un error en "el sistema". Así que saqué la cita por Internet para resolver éste problema.
+(éstas opciones o menú puede que haya cambiado después de haber escrito éste blog)
+
+Y me dijeron que tenía que ir a las oficinas del Infonavit ya que había un error en "el sistema". Así que saqué la cita por Internet para resolver éste problema.
 
 #### Cita en las oficinas de Infonavit (Noviembre 2020)
 
