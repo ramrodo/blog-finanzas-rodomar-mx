@@ -202,7 +202,7 @@ A pesar de que dí el 10% de enganche del departamente, la inmobiliaria me ofrec
 
 De acuerdo a los otros proyectos que estuve comparando, me estuve encontrando con este financiamiento de mensualidades muy frecuentemente ya que varios de esos desarrollos estaban apenas en construcción y no iban a estar listos hasta dentro de 1 o 2 años. En mi caso quise elegir un departamento en Preventa ya que económicamente hablando es más barato que desarrollos ya construidos y entregados; y aparte, no tenía tanta urgencia de cambiarme de mi cuarto de renta.
 
-Éste periodo 10 meses de ahorro y pago fueron muy díficiles al inicio ya que, a pesar de que ya ahorraba por mi cuenta para el primer 10% de enganche, no ahorraba el 30% de mis ingresos, lo cual representaba el pago de éstas mensualidades, por lo que tuve que cambiar mis hábitos de gasto, limitarme a comprar otras cosas y ahorrar más de lo que tenía pensado.
+Éste periodo 10 meses de ahorro y pago fueron muy díficiles al inicio ya que, a pesar de que ya ahorraba por mi cuenta para el primer 10% de enganche, no ahorraba como tal el 30% de mis ingresos, lo cual representaba el pago de éstas mensualidades, por lo que tuve que cambiar mis hábitos de gasto, limitarme a comprar otras cosas y ahorrar más de lo que tenía pensado.
 
 Éste nuevo presupuesto que tuve que realizar me ayudó mucho ya que se asemeja más a lo que estaré pagando de hipoteca cada mes una vez que tenga mi crédito hipotecario. Lo tomé como una prueba para saber si estaba listo para adquirir una hipoteca donde tenga que apartar casi el 30% de mis ingresos.
 
@@ -232,16 +232,57 @@ Una vez que mi asesor validó todos estos documentos, él envió mi solicitud al
 
 Primero, realizamos el trámite con Scotiabank a sabiendas que me lo podían rechazar ya que solicitaban por lo menos 6 meses de antigüedad laboral y por ésta razón, me lo rechazaron.
 
-Pero, un mes después, lo realizamos con Santander ya que éste me permitía juntar mi antigüedad actual con la anterior para juntar 1 año en total y también para ese entonces, ya tenía 6 meses en mi empleo actual; por lo que sí me aprobaron mi crédito de Preventa con Santander.
+Sin embargo, unas semanas después, hicimios el trámite con Santander, ya que éste me permitía juntar mi antigüedad actual con la anterior para juntar 1 año en total. Para ese entonces, ya tenía 6 meses en mi empleo actual, por lo que sí me aprobaron mi crédito de Preventa con Santander.
+
+El tiempo que tardó el banco en responder después de enviar los documentos a través de mi asesor fue de aproximadamente 1 semana (aunque puede tardar hasta 2 semanas).
 
 Los detalles de que mi crédito aprobado fueron:
 
-- **Tasa:** 10.07%
-- **Plazo:** 15 años
+- **Tasa aprobada:** 10.07% *
+  - \* a pesar de que mi tasa aprobada fue de _10.07%_, al final del documento de autorización hay una leyenda que dice: _"Si el aforo final es ?80% se ofrece tasa 9.45% si el aforo final es 80% se ofrece tasa 9.90%"_. Aún no estoy seguro qué tasa me ofrecerían al final o qué signifique ese signo de interrogación (¿un error ortográfico tal vez?) pero lo colocaré en las siguientes sección en cuando tenga la información.
+- **Plazo autorizado:** 15 años
 - Afiliable a Hipoteca Plus: Sí
 
 Una vez que mi asesor me mandó la confirmación del crédito de Preventa, me comentó que debería estar atento para cuando ya se pueda realizar el avalúo (que el desarrollo cuente con régimen de condominio, cuenta catastral y habitabilidad) para continuar con la Fase II de la formalización del crédito.
 
-## Fin del pago de mensualidades y pago extra a capital (Diciembre 2022)
+## Cambio de trabajo (Abril 2022)
+
+Después de que me aprobaran el crédito hipotecario de Preventa, realicé un cambio de empleador.
+
+Mi asesor me comentó que no afecta a la solicitud un cambio de trabajo siempre y cuando en el nuevo empleo reciba el mismo o un mayor ingreso. Esto para evitar que el análisis que me realizó el banco Santander sea menos favorable si percibo menos dinero.
+
+## Retraso en la entrega del departamento (Diciembre 2022 a Febrero 2023)
+
+La entrega de un inmueble nuevo regularme siempre se retrasa según mi asesor y algunas fuentes que encontré. Pero nunca se sabe cuánto se retrasa.
+
+En el documento de Oferta de compra, hay una sección llamda **Fecha de Entrega**:
+
+- _Fecha de Entrega: La "Unidad" deberá ser entregada a más tardar el día 31 de diciembre del 2022, más 90 días de plazo de gracia, para efectos de que la presente siga vigente._
+
+Por lo que el periodo de gracia cubre hasta el día 30 de marzo de 2023 en este caso.
+
+## Fin del pago de mensualidades y pago extra a capital (Diciembre 2022 a Febrero 2023)
+
+En Diciembre de 2022 terminé de pagar las 10 mensualidades correspondientes al otro 10% del total del departamento.
+
+Sin embargo, aproveché que ya me tenía esa cantidad de dinero reservada cada mes, para poder transferir pagos extras a capital y poder disminuir la cantidad a solicitar en el crédito hipotacario al banco. Ésto me ayudará a solicitar menos dinero, lo cual se convierte en menos pago de intereses a lo largo del tiempo.
+
+Esto también lo hice con la intención de que me ofrecieran mejor tasa de acuerdo a la nota de la aprobación del banco en donde decía que si solicitaba igual o menos del 80%, me daban otra tasa.
+
+## Solicitud de documentos por parte del banco (2da. vez) (Febrero 2023)
+
+Mientras esperaba la finalización y entrega del departamento por parte de la inmobiliaria, mi asesor me comentó que el banco Santander necesitaba actualizar la documentación y acreditar que estoy empleado. Por lo que tuve que volver a reunir y enviar a mi asesor toda la documentación actualizada (carta laboral, recibos de sueldo, estados de cuenta, etc.) que vienen descritos en la sección anterior de **"Solicitud de crédito hipotecario de Preventa (Marzo 2022)"**.
+
+## Gastos notariales y escrituras (Marzo 2023)
+
+Éste es un **gasto muy importante** que no debemos olvidar al comprar alguna propiedad. Ya que puede representar entre el 5% al 8% del total del inmueble.
+
+El porcentaje depende mucho de la zona geográfica en la que se encuentre el inmueble y de la notaria donde realices el trámite. Éstos gastos notariales se refieren básicamente a:
+
+- Impuesto sobre Transmisiones Patrimoniales (ITP)
+- Pago de Derechos al Registro Público de la Propiedad y del Comercio del Estado
+- Honorario del Notario
+
+Te dejo [ésta página](https://www.honest-home.io/blog-post-1/costo-escrituras-zapopan-2021) donde realizan paso a paso el cálculo de cada uno de estos gastos para un inmueble en el estado de Jalisco de 2 millones de pesos.
 
 TBD
