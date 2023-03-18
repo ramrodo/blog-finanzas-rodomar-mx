@@ -24,6 +24,7 @@ jobs:
       uses: peaceiris/actions-hugo@v2
       with:
           hugo-version: '0.110.0'
+          extended: true
 
     # Clean and don't fail
     - name: Clean public directory
