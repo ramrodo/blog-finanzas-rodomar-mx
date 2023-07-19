@@ -101,7 +101,7 @@ Un asesor en las oficinas me comentó que efectivamente había un "error en el s
 
 Después de ese tiempo, efectivamente ya no apareció el mensaje de error que tenía en mi cuenta.
 
-## Ahorro para el enganche (Diciembre 2020 a Enero 2021)
+## Ahorro para el enganche (Diciembre 2020 a Enero 2022)
 
 Una vez arreglado mi problema con mi cuenta de Infonavit, decidí esperar a precalificarme ya que apenas iba a ir a buscar y comparar precios en departamentos y no tenía dinero exclusivamente para el enganche.
 
@@ -273,7 +273,27 @@ Esto también lo hice con la intención de que me ofrecieran mejor tasa de acuer
 
 Mientras esperaba la finalización y entrega del departamento por parte de la inmobiliaria, mi asesor me comentó que el banco Santander necesitaba actualizar la documentación y acreditar que estoy empleado. Por lo que tuve que volver a reunir y enviar a mi asesor toda la documentación actualizada (carta laboral, recibos de sueldo, estados de cuenta, etc.) que vienen descritos en la sección anterior de **"Solicitud de crédito hipotecario de Preventa (Marzo 2022)"**.
 
-## Gastos notariales y escrituras (Marzo 2023)
+De igual forma, mi asesor me solicitó mi Certificado Apoyo Infonavit (puedes descargarlo desde "Mi Cuenta Infonavit" [siguiendo éstos pasos](https://www.infonavit-portal.com.mx/certificado-de-apoyo-infonavit-2/)) para enviarlo al banco.
+
+## "Fase 2" del trámite de crédito hipotecario: Avalúo (Mayo 2023)
+
+Casi 3 meses después, la inmobiliaria al fin le envió a mi asesor la documentación para la "Fase 2" del trámite. Mi asesor me explicó que en ésta fase se envía la documentación a la mesa de control del banco, la analizan y disparan la orden hacia el avalúo y después al notario.
+
+Por lo que mi asesor me envió el formato para realizar el pago del avalúo el cual lo tendría que hacer en sucursal y en efectivo para obtener un comprobante.
+
+El monto que pagué fue de $6,532.23
+
+## Registro de biométricos (Junio 2023)
+
+Unas semanas después, mi asesor me solicitó ir al banco para realizar una validación biométrica. En este proceso, me tomaron mis huellas digitales, me solicitaron mi INE y me pidieron mi número de cuenta de cheques/débito del banco donde se realizaría la dispersión del dinero del crédito y el pago del mismo. Yo ya tenía cuenta en éste banco por lo que no tuve que abrir una nueva cuenta.
+
+Con ésta validación biométrica me proporcionaron dos folios (hojas), mismas que enviaron a un correo de una ejecutiva de Santander para seguir con el proceso.
+
+## Gastos notariales y firma de escrituras (Julio 2023)
+
+Tanto el pago de los gastos notariales como la firma de escrituras, se realizó en físico en la Notaria que mi asesor me indicó. A continuación, te explico cada una:
+
+### Gastos notariales
 
 Éste es un **gasto muy importante** que no debemos olvidar al comprar alguna propiedad. Ya que puede representar entre el 5% al 8% del total del inmueble.
 
@@ -285,4 +305,49 @@ El porcentaje depende mucho de la zona geográfica en la que se encuentre el inm
 
 Te dejo [ésta página](https://www.honest-home.io/blog-post-1/costo-escrituras-zapopan-2021) donde realizan paso a paso el cálculo de cada uno de estos gastos para un inmueble en el estado de Jalisco de 2 millones de pesos.
 
-TBD
+Sin embargo, a pesar de haber hecho éstas cuentas basándome en esa página y ahorrar un 4.5% del total del inmueble, a la hora en que me tocó pagar éstos gastos notariales, la cantidad fue mayor ya que se incluyeron otros gastos y ascendió a un 6% del total del inmueble. Por lo que aquí te desgloso las cantidades exactas que pagué y puedas tener un mejor cálculo:
+
+|Concepto|Monto (MXN)|
+|--------|-----------|
+|Impuesto sobre Transmisiones Patrimoniales (ITP)|$50,501.00|
+|Pago de Derechos al Registro Público de la Propiedad y del Comercio|$13,247.28|
+|Honorario del Notario|$36,906.00|
+|IVA Honorario del Notario|$5,904.96|
+|Avalúo|$5,566.00|
+|Aviso al archivo|$143.00|
+|Aviso preventivo|$150.00|
+|Certificado de libertad de gravementes|$2,000.00|
+|Certificado de no adeudo|$361.00|
+|Copias|$500.00|
+|Deslinde catastral|$1,500|
+|Folios|$3,000.00|
+|Formas|$250.00|
+|Notas registro|$1,218.00|
+
+Y sí, ¡te cobran hasta las copias!. Así que, a pesar de los esfuerzos que has hecho para junta el enganche y/o mensualidades, te recomiendo que juntes al menos 6% del valor total del inmueble para tus gastos notariales.
+
+El monto total lo realice ahí mismo en la Notaria mientras firmaba varios documentos relacionados a las escrituras. El pago fue a través de una transferencia SPEI desde mi banca móvil.
+
+### Firma de escrituras
+
+Todo el proceso de firma duró aproximadamente 2 horas. Mi asesor me comentó que no suele ser tan tardado pero, en ésta ocasión, me comentaron que faltaban un par de documentos por parte del banco que enviaron durante ese tiempo lo cual alargó el trámite.
+
+Entre los documentos que firmé fueron:
+
+- Contrato de apertura de crédito
+- Caratula de crédito
+- Tabla de amortización
+- Seguro de daños hipotecario
+- Seguro de vida y desempleo
+- Carta de instrucción irrevocable Art. 43 BIS del Infonavit (Apoyo Infonavit)
+- Escrituras del inmueble
+
+En total, tuve que firmar un total de 3 copias de cada documento anterior, algunos por ambos lados y otros en cada una de las hojas. Fueron muchas firmas y justo esto es lo tardado, entre 30 y 50 minutos.
+
+Al final, firmé y coloqué mis huellas en las escrituras de mi departamento.
+
+Me dieron un plazo de 3 días hábiles para validarlas y después de eso, esperar aproximadamente 3 meses para que estuvieran listas por parte de la Notaría.
+
+## Entrega del departamento (Julio 2023)
+
+¡Y al fin! Después de 2 años y medio desde que empecé a ahorrar para el enganche y comparar departamentos, logré que me realizaran la entrega de mi departamento.
