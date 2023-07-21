@@ -4,7 +4,8 @@ Código base de mi blog de finanzas personales.
 
 Página web: https://www.finanzas.rodomar.mx/es/
 
-## Tecnologías usadas:
+## Tecnologías usadas
+
 - [Hugo](https://gohugo.io/)
 - [AWS Amplify](https://aws.amazon.com/es/amplify/)
 
