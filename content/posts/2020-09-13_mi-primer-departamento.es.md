@@ -351,3 +351,31 @@ Me dieron un plazo de 3 días hábiles para validarlas y después de eso, espera
 ## Entrega del departamento (Julio 2023)
 
 ¡Y al fin! Después de 2 años y medio desde que empecé a ahorrar para el enganche y comparar departamentos, logré que me realizaran la entrega de mi departamento.
+
+El proceso de entrega tardó aproximadamente dos horas.
+
+Se dividió en dos partes:
+
+### 1. Entrega por parte del área de Post-Venta
+
+Aquí, una chica del área de Post-Venta nos hizo un recorrido por las áreas comunes completadas y después, la muestra de mi departamento. En éste último, revisamos cada detalle de cada cuarto, mueble, baño, contactos de luz, agua, gas, etc.; esto con el fin de detectar alguna imperfección o algo no funcionara como debiera.
+
+Aquí les recomiendo tardarse todo el tiempo necesario para revisar cada detalle ya que si detectan algo muy malo como, falla en cerraduras, fugas, etc., éste es el momento ideal para comentarlo y que lo arreglen antes de firmar el documento de aceptación de entrega. Incluso, te brindan una hoja de Checklist donde colocas que toda la instalación, limpieza e inmobiliario estuvo correcto y concuerda con lo prometido.
+
+En mi caso, solo detectamos que las ventanas estaban sucias por dentro y tenían yeso, así que ésta persona llamó a la persona de limpieza y fue a limpiarlo en ese preciso momento.
+
+### 2. Charla y reglamentos con el área de administración del edificio
+
+En la segunda parte, hablamos con la persona que será la encargada de Lobby y administración del edificio. Aquí nos explicó de forma general:
+
+- Reglamento de uso de áreas comunes
+- Reglamento para mudanzas/proveedores
+- Reglamento de mascotas
+- Reglamento de cortinas
+- Hoja de datos de cuenta para pago de cuotas
+
+Y al final, nos entregaron las llaves, tarjeta de acceso personal y para automóvil.
+
+## Comentarios finales
+
+TBD
