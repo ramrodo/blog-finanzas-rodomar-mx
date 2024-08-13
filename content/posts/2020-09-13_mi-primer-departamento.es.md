@@ -255,7 +255,7 @@ Mi asesor me comentó que no afecta a la solicitud un cambio de trabajo siempre 
 
 La entrega de un inmueble nuevo regularme siempre se retrasa según mi asesor y algunas fuentes que encontré. Pero nunca se sabe cuánto se retrasa.
 
-En el documento de Oferta de compra, hay una sección llamda **Fecha de Entrega**:
+En el documento de Oferta de compra, hay una sección llamada **Fecha de Entrega**:
 
 - _Fecha de Entrega: La "Unidad" deberá ser entregada a más tardar el día 31 de diciembre del 2022, más 90 días de plazo de gracia, para efectos de que la presente siga vigente._
 
